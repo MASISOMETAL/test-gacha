@@ -20,7 +20,7 @@ app.use('/api/cards', cardRoutes);
 
 if (isProduction) {
     // servir frontend 
-    const publicPath = path.join(__dirname, 'src', 'public');
+    const publicPath = path.join(__dirname, 'public', 'dist');
     app.use(express.static(path.join(publicPath)));
 
     // fallback para SPA (React/Vite)
