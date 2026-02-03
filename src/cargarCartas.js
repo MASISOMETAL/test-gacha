@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const pool = require('../data/db');
+const pool = require('./data/db');
 
 async function cargarCartasDesdeJSON(filePath) {
     const rawData = fs.readFileSync(filePath);
