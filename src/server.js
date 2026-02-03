@@ -22,7 +22,7 @@ if (isProduction) {
     // cargar cartas
     const { main: cargarCartas } = require('./cargarCartas');
 
-    app.get('/debug/cargar-cartas', async (req, res) => {
+    app.get('/api/debug/cargar-cartas', async (req, res) => {
         try {
             await cargarCartas();
             res.send("✅ Cartas cargadas correctamente");
