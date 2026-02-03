@@ -76,10 +76,9 @@ async function getPack(packType) {
 exports.buyPack = async (userId, packType) => {
     // Definir precios
     const precios = {
-        common: 10,
-        rare: 30,
-        epic: 80,
-        legendary: 150
+        common: 100,
+        rare: 300,
+
     };
 
     const precio = precios[packType];
