@@ -66,6 +66,11 @@ async function login(email, password) {
         // Traemos cartas del usuario
         const { cards, cardsCount } = await getUserCards(user.id);
 
+        console.log("Usuario encontrado:", user);
+        console.log("Token generado en login:", token);
+        console.log("Cartas del usuario:", cards, "Total:", cardsCount);
+
+
         return {
             token,
             user: {
