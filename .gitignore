@@ -6,7 +6,6 @@ yarn-error.log*
 
 # Build / producción
 build/
-dist/
 public/build/
 coverage/
 

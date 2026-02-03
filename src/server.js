@@ -3,6 +3,8 @@ const cors = require('cors');
 require('dotenv').config();
 const path = require("path")
 
+const isProduction = process.env.NODE_ENV === "production";
+
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -16,13 +18,15 @@ app.use('/api/gacha', gachaRoutes);
 app.use('/api/auth', authRoutes);
 app.use('/api/cards', cardRoutes);
 
-// Servir archivos estáticos del frontend 
-// comentar al usar desarrollo
-app.use(express.static(path.join(__dirname, 'public')));
+if (isProduction) {
+    // servir frontend 
+    app.use(express.static(path.join(__dirname, 'public')));
 
-// Para rutas que no sean API, devolver index.html 
-// comentar al usar desarrollo
-app.get(/.*/, (req, res) => { res.sendFile(path.join(__dirname, 'public', 'index.html')); });
+    // fallback para SPA (React/Vite)
+    app.get(/.*/, (req, res) => {
+        res.sendFile(path.join(__dirname, 'public', 'index.html'));
+    });
+}
 
 // Puerto configurable
 const PORT = process.env.PORT || 3000;
