@@ -19,6 +19,18 @@ app.use('/api/auth', authRoutes);
 app.use('/api/cards', cardRoutes);
 
 if (isProduction) {
+    // cargar cartas
+    const { main: cargarCartas } = require('./cargarCartas');
+
+    app.get('/debug/cargar-cartas', async (req, res) => {
+        try {
+            await cargarCartas();
+            res.send("✅ Cartas cargadas correctamente");
+        } catch (err) {
+            res.status(500).send("❌ Error al cargar cartas: " + err.message);
+        }
+    });
+
     // servir frontend 
     const publicPath = path.join(__dirname, 'public', 'dist');
     app.use(express.static(path.join(publicPath)));
