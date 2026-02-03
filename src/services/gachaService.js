@@ -1,12 +1,4 @@
-const { Pool } = require('pg');
-
-const pool = new Pool({
-    user: 'monster',
-    host: 'localhost',   // o el nombre del servicio en docker-compose
-    database: 'monsterdb',
-    password: 'monster123',
-    port: 5432,
-});
+const pool = require('../data/db');
 
 // Función para elegir una carta según su probabilidad
 function pickWeighted(pool) {
