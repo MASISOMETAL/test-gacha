@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "R001",
+        "nombre": "Caballero de Plata",
+        "imagen": "caballero_plata.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un caballero con armadura de plata, más resistente que los comunes.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 35,
+            "defensa": 25,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R002",
+        "nombre": "Espada de Plata",
+        "imagen": "espada_plata.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una espada brillante de plata, más afilada que las básicas.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 32,
+            "defensa": 0,
+            "velocidad": 6
+        }
+    },
+    {
+        "id": "R003",
+        "nombre": "Armadura de Hierro Forjado",
+        "imagen": "armadura_hierro_forjado.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Una armadura sólida que ofrece gran protección.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 30,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R004",
+        "nombre": "Mago de Cristal",
+        "imagen": "mago_cristal.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un mago que domina hechizos de cristal.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 28,
+            "defensa": 18,
+            "velocidad": 20
+        }
+    },
+    {
+        "id": "R005",
+        "nombre": "Arco de Plata",
+        "imagen": "arco_plata.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un arco refinado que dispara con gran precisión.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 30,
+            "defensa": 0,
+            "velocidad": 10
+        }
+    },
+    {
+        "id": "R006",
+        "nombre": "Lancero de Hierro",
+        "imagen": "lancero_hierro.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un lancero entrenado con armas de hierro.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 33,
+            "defensa": 22,
+            "velocidad": 12
+        }
+    },
+    {
+        "id": "R007",
+        "nombre": "Casco de Plata",
+        "imagen": "casco_plata.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un casco resistente que protege mejor que los comunes.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 20,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R008",
+        "nombre": "Guerrero de Bronce",
+        "imagen": "guerrero_bronce.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un guerrero con armadura de bronce reforzado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 31,
+            "defensa": 24,
+            "velocidad": 14
+        }
+    },
+    {
+        "id": "R009",
+        "nombre": "Ballesta de Hierro",
+        "imagen": "ballesta_hierro.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una ballesta reforzada con hierro, más potente.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 29,
+            "defensa": 0,
+            "velocidad": 7
+        }
+    },
+    {
+        "id": "R010",
+        "nombre": "Explorador de Plata",
+        "imagen": "explorador_plata.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un explorador ágil con equipo refinado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 27,
+            "defensa": 19,
+            "velocidad": 22
+        }
+    },
+    {
+        "id": "R011",
+        "nombre": "Guantes de Hierro",
+        "imagen": "guantes_hierro.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Guantes reforzados que aumentan la fuerza.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 3,
+            "defensa": 15,
+            "velocidad": 0
+        }
+    },
+    {
+        "id": "R012",
+        "nombre": "Monje de Hierro",
+        "imagen": "monje_hierro.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un monje disciplinado con gran resistencia.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 25,
+            "defensa": 28,
+            "velocidad": 13
+        }
+    },
+    {
+        "id": "R013",
+        "nombre": "Martillo de Plata",
+        "imagen": "martillo_plata.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un martillo pesado de plata, devastador en combate.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 34,
+            "defensa": 0,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R014",
+        "nombre": "Cazador de Lobos",
+        "imagen": "cazador_lobos.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un cazador experto en enfrentar manadas de lobos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 29,
+            "defensa": 20,
+            "velocidad": 18
+        }
+    },
+    {
+        "id": "R015",
+        "nombre": "Escudo de Plata",
+        "imagen": "escudo_plata.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo brillante que ofrece gran defensa.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 32,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R016",
+        "nombre": "Caballero de Hierro",
+        "imagen": "caballero_hierro.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un caballero con armadura de hierro reforzado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 36,
+            "defensa": 28,
+            "velocidad": 14
+        }
+    },
+    {
+        "id": "R017",
+        "nombre": "Espada de Cristal",
+        "imagen": "espada_cristal.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una espada mágica forjada con cristal puro.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 33,
+            "defensa": 0,
+            "velocidad": 7
+        }
+    },
+    {
+        "id": "R018",
+        "nombre": "Armadura de Plata Pulida",
+        "imagen": "armadura_plata_pulida.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Una armadura brillante que refleja la luz.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 34,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R019",
+        "nombre": "Hechicero de Hielo",
+        "imagen": "hechicero_hielo.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un mago que controla los poderes del hielo.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 30,
+            "defensa": 20,
+            "velocidad": 19
+        }
+    },
+    {
+        "id": "R020",
+        "nombre": "Arco de Hierro",
+        "imagen": "arco_hierro.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un arco reforzado con hierro, más duradero.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 31,
+            "defensa": 0,
+            "velocidad": 9
+        }
+    },
+    {
+        "id": "R021",
+        "nombre": "Lancero de Plata",
+        "imagen": "lancero_plata.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un lancero entrenado con armas de plata.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 34,
+            "defensa": 23,
+            "velocidad": 13
+        }
+    },
+    {
+        "id": "R022",
+        "nombre": "Casco de Cristal",
+        "imagen": "casco_cristal.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un casco mágico que brilla con energía.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 22,
+            "velocidad": -1
+        }
+    },
+    {
+        "id": "R023",
+        "nombre": "Guerrero de Plata",
+        "imagen": "guerrero_plata.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un guerrero con armadura de plata refinada.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 32,
+            "defensa": 25,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R024",
+        "nombre": "Ballesta de Plata",
+        "imagen": "ballesta_plata.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una ballesta de plata que dispara con precisión.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 30,
+            "defensa": 0,
+            "velocidad": 8
+        }
+    },
+    {
+        "id": "R025",
+        "nombre": "Explorador de Cristal",
+        "imagen": "explorador_cristal.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un explorador ágil con equipo mágico.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 28,
+            "defensa": 21,
+            "velocidad": 23
+        }
+    },
+    {
+        "id": "R026",
+        "nombre": "Guantes de Plata",
+        "imagen": "guantes_plata.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Guantes resistentes que aumentan la fuerza.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 4,
+            "defensa": 16,
+            "velocidad": 1
+        }
+    },
+    {
+        "id": "R027",
+        "nombre": "Monje de Plata",
+        "imagen": "monje_plata.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un monje disciplinado con gran resistencia.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 26,
+            "defensa": 29,
+            "velocidad": 14
+        }
+    },
+    {
+        "id": "R028",
+        "nombre": "Martillo de Cristal",
+        "imagen": "martillo_cristal.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un martillo mágico de cristal, devastador en combate.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 35,
+            "defensa": 0,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R029",
+        "nombre": "Cazador de Osos",
+        "imagen": "cazador_osos.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un cazador experto en enfrentar osos salvajes.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 30,
+            "defensa": 22,
+            "velocidad": 17
+        }
+    },
+    {
+        "id": "R030",
+        "nombre": "Escudo de Cristal",
+        "imagen": "escudo_cristal.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo mágico que ofrece gran defensa.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 35,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R031",
+        "nombre": "Caballero de Cristal",
+        "imagen": "caballero_cristal.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un caballero con armadura mágica de cristal.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 37,
+            "defensa": 29,
+            "velocidad": 16
+        }
+    },
+    {
+        "id": "R032",
+        "nombre": "Espada de Acero",
+        "imagen": "espada_acero.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una espada afilada de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 34,
+            "defensa": 0,
+            "velocidad": 6
+        }
+    },
+    {
+        "id": "R033",
+        "nombre": "Armadura de Cristal",
+        "imagen": "armadura_cristal.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Una armadura mágica que brilla con energía.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 36,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R034",
+        "nombre": "Hechicero de Fuego",
+        "imagen": "hechicero_fuego.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un mago que controla las llamas con destreza.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 32,
+            "defensa": 21,
+            "velocidad": 18
+        }
+    },
+    {
+        "id": "R035",
+        "nombre": "Arco de Cristal",
+        "imagen": "arco_cristal.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un arco mágico que dispara flechas de energía.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 33,
+            "defensa": 0,
+            "velocidad": 11
+        }
+    },
+    {
+        "id": "R036",
+        "nombre": "Lancero de Cristal",
+        "imagen": "lancero_cristal.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un lancero con armas mágicas de cristal.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 35,
+            "defensa": 24,
+            "velocidad": 14
+        }
+    },
+    {
+        "id": "R037",
+        "nombre": "Casco de Acero",
+        "imagen": "casco_acero.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un casco sólido de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 24,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R038",
+        "nombre": "Guerrero de Cristal",
+        "imagen": "guerrero_cristal.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un guerrero con armadura mágica de cristal.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 33,
+            "defensa": 26,
+            "velocidad": 16
+        }
+    },
+    {
+        "id": "R039",
+        "nombre": "Ballesta de Cristal",
+        "imagen": "ballesta_cristal.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una ballesta mágica que dispara proyectiles de energía.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 32,
+            "defensa": 0,
+            "velocidad": 9
+        }
+    },
+    {
+        "id": "R040",
+        "nombre": "Explorador de Acero",
+        "imagen": "explorador_acero.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un explorador equipado con armas de acero.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 30,
+            "defensa": 22,
+            "velocidad": 21
+        }
+    },
+    {
+        "id": "R041",
+        "nombre": "Guantes de Cristal",
+        "imagen": "guantes_cristal.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Guantes mágicos que aumentan la fuerza.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 5,
+            "defensa": 18,
+            "velocidad": 2
+        }
+    },
+    {
+        "id": "R042",
+        "nombre": "Monje de Cristal",
+        "imagen": "monje_cristal.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un monje que canaliza energía mágica.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 27,
+            "defensa": 30,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R043",
+        "nombre": "Martillo de Acero",
+        "imagen": "martillo_acero.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un martillo pesado de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 36,
+            "defensa": 0,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R044",
+        "nombre": "Cazador de Dragones",
+        "imagen": "cazador_dragones.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un cazador entrenado para enfrentar dragones.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 34,
+            "defensa": 23,
+            "velocidad": 19
+        }
+    },
+    {
+        "id": "R045",
+        "nombre": "Escudo de Acero",
+        "imagen": "escudo_acero.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo sólido de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 38,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R046",
+        "nombre": "Caballero de Acero",
+        "imagen": "caballero_acero.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un caballero con armadura de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 38,
+            "defensa": 30,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R047",
+        "nombre": "Espada de Acero Pulido",
+        "imagen": "espada_acero_pulido.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una espada brillante de acero pulido.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 35,
+            "defensa": 0,
+            "velocidad": 7
+        }
+    },
+    {
+        "id": "R048",
+        "nombre": "Armadura de Acero",
+        "imagen": "armadura_acero.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Una armadura sólida de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 40,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R049",
+        "nombre": "Hechicero de Tormentas",
+        "imagen": "hechicero_tormentas.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un mago que controla rayos y truenos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 33,
+            "defensa": 22,
+            "velocidad": 20
+        }
+    },
+    {
+        "id": "R050",
+        "nombre": "Arco de Acero",
+        "imagen": "arco_acero.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un arco reforzado con acero, muy preciso.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 34,
+            "defensa": 0,
+            "velocidad": 10
+        }
+    },
+    {
+        "id": "R051",
+        "nombre": "Lancero de Acero",
+        "imagen": "lancero_acero.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un lancero entrenado con armas de acero.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 36,
+            "defensa": 25,
+            "velocidad": 14
+        }
+    },
+    {
+        "id": "R052",
+        "nombre": "Casco de Plata Pulido",
+        "imagen": "casco_plata_pulido.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un casco brillante de plata pulida.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 26,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R053",
+        "nombre": "Guerrero de Acero",
+        "imagen": "guerrero_acero.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un guerrero con armadura de acero templado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 35,
+            "defensa": 27,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R054",
+        "nombre": "Ballesta de Acero",
+        "imagen": "ballesta_acero.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una ballesta reforzada con acero, muy potente.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 33,
+            "defensa": 0,
+            "velocidad": 9
+        }
+    },
+    {
+        "id": "R055",
+        "nombre": "Explorador de Plata",
+        "imagen": "explorador_plata.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un explorador ágil con equipo refinado.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 29,
+            "defensa": 23,
+            "velocidad": 22
+        }
+    },
+    {
+        "id": "R056",
+        "nombre": "Guantes de Acero",
+        "imagen": "guantes_acero.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Guantes sólidos de acero que aumentan la fuerza.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 6,
+            "defensa": 20,
+            "velocidad": 0
+        }
+    },
+    {
+        "id": "R057",
+        "nombre": "Monje de Acero",
+        "imagen": "monje_acero.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un monje disciplinado con gran resistencia física.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 28,
+            "defensa": 32,
+            "velocidad": 14
+        }
+    },
+    {
+        "id": "R058",
+        "nombre": "Martillo de Acero Pulido",
+        "imagen": "martillo_acero_pulido.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un martillo pesado de acero pulido.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 37,
+            "defensa": 0,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R059",
+        "nombre": "Cazador de Serpientes",
+        "imagen": "cazador_serpientes.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un cazador experto en enfrentar serpientes venenosas.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 31,
+            "defensa": 21,
+            "velocidad": 18
+        }
+    },
+    {
+        "id": "R060",
+        "nombre": "Escudo de Plata Reforzado",
+        "imagen": "escudo_plata_reforzado.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo de plata reforzado que ofrece gran defensa.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 39,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R061",
+        "nombre": "Caballero de Tormenta",
+        "imagen": "caballero_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un caballero que lucha bajo la furia de las tormentas.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 39,
+            "defensa": 31,
+            "velocidad": 16
+        }
+    },
+    {
+        "id": "R062",
+        "nombre": "Espada de Tormenta",
+        "imagen": "espada_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una espada que canaliza la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 36,
+            "defensa": 0,
+            "velocidad": 8
+        }
+    },
+    {
+        "id": "R063",
+        "nombre": "Armadura de Tormenta",
+        "imagen": "armadura_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Una armadura que protege contra la furia de los elementos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 42,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "R064",
+        "nombre": "Hechicero de Viento",
+        "imagen": "hechicero_viento.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un mago que controla las corrientes de aire.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 31,
+            "defensa": 23,
+            "velocidad": 22
+        }
+    },
+    {
+        "id": "R065",
+        "nombre": "Arco de Tormenta",
+        "imagen": "arco_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un arco que dispara flechas imbuidas con energía eléctrica.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 35,
+            "defensa": 0,
+            "velocidad": 11
+        }
+    },
+    {
+        "id": "R066",
+        "nombre": "Lancero de Tormenta",
+        "imagen": "lancero_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un lancero que lucha con la fuerza del trueno.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 37,
+            "defensa": 26,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R067",
+        "nombre": "Casco de Tormenta",
+        "imagen": "casco_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un casco que protege contra los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 28,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R068",
+        "nombre": "Guerrero de Tormenta",
+        "imagen": "guerrero_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un guerrero que lucha con la furia de la tormenta.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 36,
+            "defensa": 28,
+            "velocidad": 17
+        }
+    },
+    {
+        "id": "R069",
+        "nombre": "Ballesta de Tormenta",
+        "imagen": "ballesta_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Una ballesta que dispara proyectiles eléctricos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 34,
+            "defensa": 0,
+            "velocidad": 10
+        }
+    },
+    {
+        "id": "R070",
+        "nombre": "Explorador de Tormenta",
+        "imagen": "explorador_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un explorador que se mueve con la velocidad del viento.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 30,
+            "defensa": 24,
+            "velocidad": 23
+        }
+    },
+    {
+        "id": "R071",
+        "nombre": "Guantes de Tormenta",
+        "imagen": "guantes_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Guantes que canalizan energía eléctrica.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 7,
+            "defensa": 21,
+            "velocidad": 2
+        }
+    },
+    {
+        "id": "R072",
+        "nombre": "Monje de Tormenta",
+        "imagen": "monje_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un monje que medita bajo la furia de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 29,
+            "defensa": 33,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "R073",
+        "nombre": "Martillo de Tormenta",
+        "imagen": "martillo_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Arma",
+        "descripcion": "Un martillo que descarga rayos al golpear.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 38,
+            "defensa": 0,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "R074",
+        "nombre": "Cazador de Tormentas",
+        "imagen": "cazador_tormentas.png",
+        "rareza": "rare",
+        "tipo": "Personaje",
+        "descripcion": "Un cazador que aprovecha la energía de las tormentas.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 32,
+            "defensa": 24,
+            "velocidad": 20
+        }
+    },
+    {
+        "id": "R075",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "escudo_tormenta.png",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    }
+]

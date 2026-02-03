@@ -1,0 +1,212 @@
+[
+    {
+        "id": "L001",
+        "nombre": "Caballero Dorado",
+        "imagen": "caballero_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un caballero envuelto en armadura dorada, símbolo de gloria eterna.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 70,
+            "defensa": 55,
+            "velocidad": 25
+        }
+    },
+    {
+        "id": "L002",
+        "nombre": "Espada Dorada",
+        "imagen": "espada_dorada.png",
+        "rareza": "legendary",
+        "tipo": "Arma",
+        "descripcion": "Una espada forjada con oro celestial, capaz de cortar cualquier cosa.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 68,
+            "defensa": 0,
+            "velocidad": 15
+        }
+    },
+    {
+        "id": "L003",
+        "nombre": "Armadura Dorada",
+        "imagen": "armadura_dorada.png",
+        "rareza": "legendary",
+        "tipo": "Accesorio",
+        "descripcion": "Una armadura que brilla con luz divina, casi indestructible.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 0,
+            "defensa": 75,
+            "velocidad": -6
+        }
+    },
+    {
+        "id": "L004",
+        "nombre": "Hechicero Dorado",
+        "imagen": "hechicero_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un mago que domina los secretos de la magia eterna.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 65,
+            "defensa": 45,
+            "velocidad": 30
+        }
+    },
+    {
+        "id": "L005",
+        "nombre": "Arco Dorado",
+        "imagen": "arco_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Arma",
+        "descripcion": "Un arco que dispara flechas imbuidas con energía divina.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 66,
+            "defensa": 0,
+            "velocidad": 20
+        }
+    },
+    {
+        "id": "L006",
+        "nombre": "Lancero Dorado",
+        "imagen": "lancero_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un lancero que lucha con la fuerza de los dioses.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 69,
+            "defensa": 50,
+            "velocidad": 22
+        }
+    },
+    {
+        "id": "L007",
+        "nombre": "Casco Dorado",
+        "imagen": "casco_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Accesorio",
+        "descripcion": "Un casco que protege contra cualquier ataque.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 0,
+            "defensa": 48,
+            "velocidad": -3
+        }
+    },
+    {
+        "id": "L008",
+        "nombre": "Guerrero Dorado",
+        "imagen": "guerrero_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un guerrero que lucha con la fuerza del sol.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 67,
+            "defensa": 52,
+            "velocidad": 24
+        }
+    },
+    {
+        "id": "L009",
+        "nombre": "Ballesta Dorada",
+        "imagen": "ballesta_dorada.png",
+        "rareza": "legendary",
+        "tipo": "Arma",
+        "descripcion": "Una ballesta que dispara proyectiles imbuidos con luz divina.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 64,
+            "defensa": 0,
+            "velocidad": 18
+        }
+    },
+    {
+        "id": "L010",
+        "nombre": "Explorador Dorado",
+        "imagen": "explorador_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un explorador que se mueve con la velocidad de la luz.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 62,
+            "defensa": 46,
+            "velocidad": 35
+        }
+    },
+    {
+        "id": "L011",
+        "nombre": "Guantes Dorados",
+        "imagen": "guantes_dorados.png",
+        "rareza": "legendary",
+        "tipo": "Accesorio",
+        "descripcion": "Guantes que canalizan energía divina.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 12,
+            "defensa": 30,
+            "velocidad": 5
+        }
+    },
+    {
+        "id": "L012",
+        "nombre": "Monje Dorado",
+        "imagen": "monje_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un monje que medita bajo la luz eterna.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 60,
+            "defensa": 55,
+            "velocidad": 23
+        }
+    },
+    {
+        "id": "L013",
+        "nombre": "Martillo Dorado",
+        "imagen": "martillo_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Arma",
+        "descripcion": "Un martillo que descarga energía divina al golpear.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 72,
+            "defensa": 0,
+            "velocidad": -2
+        }
+    },
+    {
+        "id": "L014",
+        "nombre": "Cazador Dorado",
+        "imagen": "cazador_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Personaje",
+        "descripcion": "Un cazador que aprovecha la energía del sol.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 63,
+            "defensa": 47,
+            "velocidad": 26
+        }
+    },
+    {
+        "id": "L015",
+        "nombre": "Escudo Dorado",
+        "imagen": "escudo_dorado.png",
+        "rareza": "legendary",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía divina.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 0,
+            "defensa": 70,
+            "velocidad": -6
+        }
+    }
+]

@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / producción
+build/
+dist/
+public/build/
+coverage/
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Entornos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Docker
+docker-compose.override.yml
+*.tar
+*.img
+
+# PostgreSQL dumps
+*.sql
+*.dump
+
+# Tests temporales
+jest-cache/
+jest-temp/
+
+# Ignorar carpeta completa de sentencias SQL
+sentencias sql/

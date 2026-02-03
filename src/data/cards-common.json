@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "C001",
+    "nombre": "Soldado Novato",
+    "imagen": "soldado_novato.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un recluta recién llegado al campo de batalla.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 15,
+      "velocidad": 10
+    }
+  },
+  {
+    "id": "C002",
+    "nombre": "Arco de Madera",
+    "imagen": "arco_madera.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un arco rudimentario hecho de madera ligera.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 15,
+      "defensa": 0,
+      "velocidad": 5
+    }
+  },
+  {
+    "id": "C003",
+    "nombre": "Escudo Roto",
+    "imagen": "escudo_roto.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo desgastado que apenas protege.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 10,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C004",
+    "nombre": "Aprendiz de Mago",
+    "imagen": "aprendiz_mago.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas entiende los conjuros básicos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 18,
+      "defensa": 8,
+      "velocidad": 12
+    }
+  },
+  {
+    "id": "C005",
+    "nombre": "Espada Oxidada",
+    "imagen": "espada_oxidada.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada vieja y oxidada, pero aún útil.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 22,
+      "defensa": 0,
+      "velocidad": 3
+    }
+  },
+  {
+    "id": "C006",
+    "nombre": "Campesino",
+    "imagen": "campesino.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un trabajador del campo con pocas habilidades de combate.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 10,
+      "defensa": 12,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C007",
+    "nombre": "Casco Abollado",
+    "imagen": "casco_abollado.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Protege un poco, aunque está lleno de golpes.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 12,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C008",
+    "nombre": "Hacha de Piedra",
+    "imagen": "hacha_piedra.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un arma rudimentaria hecha de piedra y madera.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 25,
+      "defensa": 0,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C009",
+    "nombre": "Explorador",
+    "imagen": "explorador.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un viajero que conoce bien los caminos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 15,
+      "defensa": 10,
+      "velocidad": 20
+    }
+  },
+  {
+    "id": "C010",
+    "nombre": "Guantes Viejos",
+    "imagen": "guantes_viejos.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Guantes desgastados que ofrecen mínima protección.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 2,
+      "defensa": 5,
+      "velocidad": 1
+    }
+  },
+  {
+    "id": "C011",
+    "nombre": "Lancero Amateur",
+    "imagen": "lancero_amateur.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un lancero sin mucha experiencia.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 17,
+      "defensa": 14,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C012",
+    "nombre": "Capa Desgastada",
+    "imagen": "capa_desgastada.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Una capa vieja que apenas protege del frío.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C013",
+    "nombre": "Armadura Ligera",
+    "imagen": "armadura_ligera.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Una armadura básica de cuero.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 18,
+      "velocidad": -3
+    }
+  },
+  {
+    "id": "C014",
+    "nombre": "Espadachín Errante",
+    "imagen": "espadachin_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un viajero que lucha por sobrevivir.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 23,
+      "defensa": 12,
+      "velocidad": 11
+    }
+  },
+  {
+    "id": "C015",
+    "nombre": "Ballesta Vieja",
+    "imagen": "ballesta_vieja.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una ballesta antigua con poca precisión.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 19,
+      "defensa": 0,
+      "velocidad": 4
+    }
+  },
+  {
+    "id": "C016",
+    "nombre": "Arquero Inexperto",
+    "imagen": "arquero_inexperto.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un arquero que apenas sabe apuntar.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 14,
+      "defensa": 8,
+      "velocidad": 12
+    }
+  },
+  {
+    "id": "C017",
+    "nombre": "Martillo Liviano",
+    "imagen": "martillo_liviano.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un martillo pequeño usado en trabajos básicos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 16,
+      "defensa": 0,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C018",
+    "nombre": "Botas Viejas",
+    "imagen": "botas_viejas.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Botas desgastadas que apenas ayudan a caminar.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 4,
+      "velocidad": 3
+    }
+  },
+  {
+    "id": "C019",
+    "nombre": "Aprendiz de Guerrero",
+    "imagen": "aprendiz_guerrero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que sueña con ser héroe.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 19,
+      "defensa": 13,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C020",
+    "nombre": "Espada de Entrenamiento",
+    "imagen": "espada_entrenamiento.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Espada de madera usada en prácticas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 0,
+      "velocidad": 5
+    }
+  },
+  {
+    "id": "C021",
+    "nombre": "Cazador Errante",
+    "imagen": "cazador_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cazador que recorre bosques en busca de presas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 21,
+      "defensa": 10,
+      "velocidad": 14
+    }
+  },
+  {
+    "id": "C022",
+    "nombre": "Sombrero de Paja",
+    "imagen": "sombrero_paja.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Sombrero simple que protege del sol.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 2,
+      "velocidad": 1
+    }
+  },
+  {
+    "id": "C023",
+    "nombre": "Hacha Liviana",
+    "imagen": "hacha_liviana.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un hacha pequeña, fácil de manejar.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 0,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C024",
+    "nombre": "Mercader",
+    "imagen": "mercader.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un comerciante que viaja entre pueblos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 8,
+      "defensa": 10,
+      "velocidad": 10
+    }
+  },
+  {
+    "id": "C025",
+    "nombre": "Guantes de Cuero",
+    "imagen": "guantes_cuero.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Guantes simples que ofrecen mínima protección.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 1,
+      "defensa": 6,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C026",
+    "nombre": "Pastor",
+    "imagen": "pastor.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cuidador de ovejas con poco entrenamiento.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 9,
+      "defensa": 11,
+      "velocidad": 7
+    }
+  },
+  {
+    "id": "C027",
+    "nombre": "Espada Rota",
+    "imagen": "espada_rota.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada partida que apenas sirve.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 10,
+      "defensa": 0,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C028",
+    "nombre": "Armadura de Tela",
+    "imagen": "armadura_tela.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Protección mínima hecha de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 8,
+      "velocidad": 0
+    }
+  },
+  {
+    "id": "C029",
+    "nombre": "Cocinero",
+    "imagen": "cocinero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cocinero que defiende su cocina con cuchillos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 9,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C030",
+    "nombre": "Cuchillo Oxidado",
+    "imagen": "cuchillo_oxidado.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un cuchillo viejo y oxidado.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 13,
+      "defensa": 0,
+      "velocidad": 3
+    }
+  },
+  {
+    "id": "C031",
+    "nombre": "Aprendiz de Arquero",
+    "imagen": "aprendiz_arquero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas sabe tensar el arco.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 13,
+      "defensa": 7,
+      "velocidad": 11
+    }
+  },
+  {
+    "id": "C032",
+    "nombre": "Maza Liviana",
+    "imagen": "maza_liviana.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una maza pequeña usada en entrenamientos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 18,
+      "defensa": 0,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C033",
+    "nombre": "Cinturón Viejo",
+    "imagen": "cinturon_viejo.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un cinturón desgastado que apenas sostiene.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 3,
+      "velocidad": 1
+    }
+  },
+  {
+    "id": "C034",
+    "nombre": "Monje Errante",
+    "imagen": "monje_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un monje viajero con conocimientos básicos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 11,
+      "defensa": 9,
+      "velocidad": 10
+    }
+  },
+  {
+    "id": "C035",
+    "nombre": "Espada de Bronce",
+    "imagen": "espada_bronce.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada simple de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 0,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C036",
+    "nombre": "Aprendiz de Hechicero",
+    "imagen": "aprendiz_hechicero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas controla la magia.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 15,
+      "defensa": 8,
+      "velocidad": 12
+    }
+  },
+  {
+    "id": "C037",
+    "nombre": "Collar de Madera",
+    "imagen": "collar_madera.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un collar rudimentario sin poderes especiales.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 2,
+      "velocidad": 0
+    }
+  },
+  {
+    "id": "C038",
+    "nombre": "Guerrero Errante",
+    "imagen": "guerrero_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un luchador que viaja sin rumbo fijo.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 22,
+      "defensa": 12,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C039",
+    "nombre": "Daga de Hierro",
+    "imagen": "daga_hierro.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una daga básica de hierro.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 17,
+      "defensa": 0,
+      "velocidad": 4
+    }
+  },
+  {
+    "id": "C040",
+    "nombre": "Carpintero",
+    "imagen": "carpintero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un trabajador de la madera con herramientas simples.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 10,
+      "defensa": 10,
+      "velocidad": 7
+    }
+  },
+  {
+    "id": "C041",
+    "nombre": "Casco de Cuero",
+    "imagen": "casco_cuero.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un casco básico hecho de cuero.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 7,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C042",
+    "nombre": "Aprendiz de Lancero",
+    "imagen": "aprendiz_lancero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas sabe usar la lanza.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 16,
+      "defensa": 12,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C043",
+    "nombre": "Martillo de Piedra",
+    "imagen": "martillo_piedra.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un martillo rudimentario de piedra.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 19,
+      "defensa": 0,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C044",
+    "nombre": "Cazador de Ratas",
+    "imagen": "cazador_ratas.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cazador urbano que limpia las calles.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 9,
+      "velocidad": 10
+    }
+  },
+  {
+    "id": "C045",
+    "nombre": "Escudo de Madera",
+    "imagen": "escudo_madera.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo básico hecho de madera.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 14,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C046",
+    "nombre": "Aprendiz de Cazador",
+    "imagen": "aprendiz_cazador.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas sabe rastrear animales.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 14,
+      "defensa": 9,
+      "velocidad": 11
+    }
+  },
+  {
+    "id": "C047",
+    "nombre": "Espada de Entrenamiento Rota",
+    "imagen": "espada_entrenamiento_rota.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada de madera partida por el uso.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 9,
+      "defensa": 0,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C048",
+    "nombre": "Capa de Viaje",
+    "imagen": "capa_viaje.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Una capa simple para protegerse del clima.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 5,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C049",
+    "nombre": "Campesino Errante",
+    "imagen": "campesino_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un trabajador del campo que viaja en busca de oportunidades.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 11,
+      "defensa": 10,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C050",
+    "nombre": "Hacha Oxidada",
+    "imagen": "hacha_oxidada.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un hacha vieja y oxidada, aún útil en combate.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 18,
+      "defensa": 0,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C051",
+    "nombre": "Aprendiz de Carpintero",
+    "imagen": "aprendiz_carpintero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas sabe usar herramientas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 10,
+      "defensa": 8,
+      "velocidad": 7
+    }
+  },
+  {
+    "id": "C052",
+    "nombre": "Casco de Hierro Liviano",
+    "imagen": "casco_hierro_liviano.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un casco básico de hierro, algo incómodo.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 12,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C053",
+    "nombre": "Aprendiz de Monje",
+    "imagen": "aprendiz_monje.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que busca la paz interior.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 9,
+      "defensa": 11,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C054",
+    "nombre": "Espada de Hierro Liviana",
+    "imagen": "espada_hierro_liviana.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada simple de hierro.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 19,
+      "defensa": 0,
+      "velocidad": 3
+    }
+  },
+  {
+    "id": "C055",
+    "nombre": "Mercenario Novato",
+    "imagen": "mercenario_novato.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un mercenario sin experiencia en batallas reales.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 10,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C056",
+    "nombre": "Collar de Hierro",
+    "imagen": "collar_hierro.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un collar pesado de hierro sin poderes.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 4,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C057",
+    "nombre": "Aprendiz de Guerrero Errante",
+    "imagen": "aprendiz_guerrero_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que viaja buscando aventuras.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 15,
+      "defensa": 10,
+      "velocidad": 10
+    }
+  },
+  {
+    "id": "C058",
+    "nombre": "Daga de Bronce",
+    "imagen": "daga_bronce.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una daga simple de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 14,
+      "defensa": 0,
+      "velocidad": 5
+    }
+  },
+  {
+    "id": "C059",
+    "nombre": "Cazador de Conejos",
+    "imagen": "cazador_conejos.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cazador que se especializa en presas pequeñas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 9,
+      "velocidad": 12
+    }
+  },
+  {
+    "id": "C060",
+    "nombre": "Escudo de Bronce",
+    "imagen": "escudo_bronce.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo básico de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 16,
+      "velocidad": -3
+    }
+  },
+  {
+    "id": "C061",
+    "nombre": "Aprendiz de Herrero",
+    "imagen": "aprendiz_herrero.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas sabe forjar metales.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 10,
+      "velocidad": 7
+    }
+  },
+  {
+    "id": "C062",
+    "nombre": "Espada de Madera",
+    "imagen": "espada_madera.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada rudimentaria hecha de madera.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 10,
+      "defensa": 0,
+      "velocidad": 4
+    }
+  },
+  {
+    "id": "C063",
+    "nombre": "Sombrero Viejo",
+    "imagen": "sombrero_viejo.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un sombrero desgastado que apenas protege.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 2,
+      "velocidad": 1
+    }
+  },
+  {
+    "id": "C064",
+    "nombre": "Aprendiz de Explorador",
+    "imagen": "aprendiz_explorador.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas conoce los caminos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 13,
+      "defensa": 9,
+      "velocidad": 12
+    }
+  },
+  {
+    "id": "C065",
+    "nombre": "Hacha de Bronce",
+    "imagen": "hacha_bronce.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un hacha básica de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 0,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C066",
+    "nombre": "Pastor Errante",
+    "imagen": "pastor_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cuidador de ovejas que viaja por los campos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 9,
+      "defensa": 11,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C067",
+    "nombre": "Guantes de Tela",
+    "imagen": "guantes_tela.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Guantes simples hechos de tela.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 3,
+      "velocidad": 2
+    }
+  },
+  {
+    "id": "C068",
+    "nombre": "Aprendiz de Mercenario",
+    "imagen": "aprendiz_mercenario.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que busca ganar dinero en batallas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 18,
+      "defensa": 10,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C069",
+    "nombre": "Daga de Piedra",
+    "imagen": "daga_piedra.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una daga rudimentaria hecha de piedra.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 0,
+      "velocidad": 3
+    }
+  },
+  {
+    "id": "C070",
+    "nombre": "Cocinero Errante",
+    "imagen": "cocinero_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cocinero que viaja ofreciendo sus platos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 11,
+      "defensa": 9,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C071",
+    "nombre": "Casco de Bronce",
+    "imagen": "casco_bronce.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un casco básico de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 13,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C072",
+    "nombre": "Aprendiz de Espadachín",
+    "imagen": "aprendiz_espadachin.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que apenas sabe blandir la espada.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 17,
+      "defensa": 11,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C073",
+    "nombre": "Martillo de Bronce",
+    "imagen": "martillo_bronce.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un martillo básico de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 19,
+      "defensa": 0,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C074",
+    "nombre": "Cazador Errante",
+    "imagen": "cazador_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cazador que recorre bosques en busca de presas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 10,
+      "velocidad": 13
+    }
+  },
+  {
+    "id": "C075",
+    "nombre": "Escudo de Hierro Liviano",
+    "imagen": "escudo_hierro_liviano.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo básico de hierro, algo pesado.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 15,
+      "velocidad": -3
+    }
+  },
+  {
+    "id": "C076",
+    "nombre": "Aprendiz de Alquimista",
+    "imagen": "aprendiz_alquimista.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que experimenta con pociones simples.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 8,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C077",
+    "nombre": "Espada de Piedra",
+    "imagen": "espada_piedra.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una espada rudimentaria hecha de piedra.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 14,
+      "defensa": 0,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C078",
+    "nombre": "Cinturón de Tela",
+    "imagen": "cinturon_tela.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un cinturón simple de tela.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 2,
+      "velocidad": 1
+    }
+  },
+  {
+    "id": "C079",
+    "nombre": "Aprendiz de Cazador de Bestias",
+    "imagen": "aprendiz_cazador_bestias.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que sueña con cazar criaturas grandes.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 15,
+      "defensa": 9,
+      "velocidad": 10
+    }
+  },
+  {
+    "id": "C080",
+    "nombre": "Hacha de Hierro Liviana",
+    "imagen": "hacha_hierro_liviana.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un hacha básica de hierro.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 19,
+      "defensa": 0,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C081",
+    "nombre": "Mercader Errante",
+    "imagen": "mercader_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un comerciante que viaja entre pueblos.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 8,
+      "defensa": 10,
+      "velocidad": 9
+    }
+  },
+  {
+    "id": "C082",
+    "nombre": "Guantes de Bronce",
+    "imagen": "guantes_bronce.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Guantes simples de bronce.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 1,
+      "defensa": 7,
+      "velocidad": 1
+    }
+  },
+  {
+    "id": "C083",
+    "nombre": "Aprendiz de Guerrero de Aldea",
+    "imagen": "aprendiz_guerrero_aldea.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que defiende su aldea con valentía.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 16,
+      "defensa": 11,
+      "velocidad": 8
+    }
+  },
+  {
+    "id": "C084",
+    "nombre": "Daga de Madera",
+    "imagen": "daga_madera.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Una daga rudimentaria hecha de madera.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 10,
+      "defensa": 0,
+      "velocidad": 3
+    }
+  },
+  {
+    "id": "C085",
+    "nombre": "Carpintero Errante",
+    "imagen": "carpintero_errante.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un trabajador de la madera que viaja ofreciendo sus servicios.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 11,
+      "defensa": 10,
+      "velocidad": 7
+    }
+  },
+  {
+    "id": "C086",
+    "nombre": "Casco de Piedra",
+    "imagen": "casco_piedra.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un casco rudimentario hecho de piedra.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 10,
+      "velocidad": -3
+    }
+  },
+  {
+    "id": "C087",
+    "nombre": "Aprendiz de Espía",
+    "imagen": "aprendiz_espia.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un joven que intenta aprender el arte del sigilo.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 12,
+      "defensa": 8,
+      "velocidad": 13
+    }
+  },
+  {
+    "id": "C088",
+    "nombre": "Martillo de Hierro",
+    "imagen": "martillo_hierro.png",
+    "rareza": "common",
+    "tipo": "Arma",
+    "descripcion": "Un martillo básico de hierro.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 20,
+      "defensa": 0,
+      "velocidad": -2
+    }
+  },
+  {
+    "id": "C089",
+    "nombre": "Cazador de Aves",
+    "imagen": "cazador_aves.png",
+    "rareza": "common",
+    "tipo": "Personaje",
+    "descripcion": "Un cazador que se especializa en aves pequeñas.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 13,
+      "defensa": 9,
+      "velocidad": 12
+    }
+  },
+  {
+    "id": "C090",
+    "nombre": "Escudo de Tela",
+    "imagen": "escudo_tela.png",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  }
+]
