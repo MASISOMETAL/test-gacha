@@ -1,3 +1,4 @@
+// src/services/authService.js
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const pool = require('../data/db');
@@ -26,13 +27,12 @@ async function register(email, password) {
     try {
         const hashed = await bcrypt.hash(password, 10);
         const result = await pool.query(
-            'INSERT INTO users (email, password, money) VALUES ($1, $2, $3) RETURNING id, email, money',
-            [email, hashed, 5000]
+            'INSERT INTO users (email, password, money, role) VALUES ($1, $2, $3, $4) RETURNING id, email, money, role',
+            [email, hashed, 5000, 'user'] // 👈 rol por defecto
         );
         const user = result.rows[0];
 
-        // const token = jwt.sign({ id: user.id }, SECRET, { expiresIn: '1h' });
-        const token = jwt.sign({ id: user.id }, SECRET);
+        const token = jwt.sign({ id: user.id }, SECRET, { expiresIn: '1h' });
 
         // Traemos cartas (vacío al inicio)
         const { cards, cardsCount } = await getUserCards(user.id);
@@ -43,6 +43,7 @@ async function register(email, password) {
                 id: user.id,
                 email: user.email,
                 money: user.money,
+                role: user.role,   // 👈 ahora incluimos el rol
                 cards,
                 cardsCount
             }
@@ -73,6 +74,7 @@ async function login(email, password) {
                 id: user.id,
                 email: user.email,
                 money: user.money,
+                role: user.role,   // 👈 incluimos el rol
                 cards,
                 cardsCount
             }
