@@ -21,27 +21,6 @@ app.use('/api/cards', cardRoutes);
 
 if (isProduction) {
     // cargar cartas
-    const { main: cargarCartas } = require('./cargarCartas');
-
-    app.get('/api/debug/cargar-cartas', async (req, res) => {
-        try {
-            await cargarCartas();
-            res.send("✅ Cartas cargadas correctamente");
-        } catch (err) {
-            res.status(500).send("❌ Error al cargar cartas: " + err.message);
-        }
-    });
-
-    // borrar todas las cartas 
-    app.get('/api/debug/borrar-cards', async (req, res) => {
-        try {
-            await pool.query("TRUNCATE TABLE cards RESTART IDENTITY CASCADE");
-            res.send("🗑️ Tabla 'cards' vaciada correctamente");
-        } catch (err) {
-            console.error("❌ Error al truncar tabla:", err.message);
-            res.status(500).send("❌ Error al borrar cartas: " + err.message);
-        }
-    });
 
     // servir frontend 
     const publicPath = path.join(__dirname, 'public', 'dist');
