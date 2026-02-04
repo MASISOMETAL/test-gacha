@@ -2,7 +2,7 @@
     {
         "id": "E001",
         "nombre": "Caballero Carmesí",
-        "imagen": "caballero_carmesi.png",
+        "imagen": "https://i.ibb.co/4gW6Mr9P/590963278-17989680413860731-1568483289788180373-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un caballero legendario con armadura roja brillante.",
@@ -16,7 +16,7 @@
     {
         "id": "E002",
         "nombre": "Espada Carmesí",
-        "imagen": "espada_carmesi.png",
+        "imagen": "https://i.ibb.co/hFXxckff/609175905-17945364792093229-4469845128148091741-n.jpg",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Una espada forjada con fuego eterno.",
@@ -30,7 +30,7 @@
     {
         "id": "E003",
         "nombre": "Armadura Carmesí",
-        "imagen": "armadura_carmesi.png",
+        "imagen": "https://i.ibb.co/jPt1PYCm/475771497-17957006399860731-6628834699593618437-n.webp",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Una armadura que brilla con energía ardiente.",
@@ -44,7 +44,7 @@
     {
         "id": "E004",
         "nombre": "Hechicero Carmesí",
-        "imagen": "hechicero_carmesi.png",
+        "imagen": "https://i.ibb.co/tTCmqGRQ/559043824-17935687125093229-6328061305221109004-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un mago que controla las llamas del infierno.",
@@ -58,7 +58,7 @@
     {
         "id": "E005",
         "nombre": "Arco Carmesí",
-        "imagen": "arco_carmesi.png",
+        "imagen": "https://i.ibb.co/FkvVhJmj/537106921-17978296700860731-2740375364502503428-n.webp",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Un arco que dispara flechas envueltas en fuego.",
@@ -72,7 +72,7 @@
     {
         "id": "E006",
         "nombre": "Lancero Carmesí",
-        "imagen": "lancero_carmesi.png",
+        "imagen": "https://i.ibb.co/cShskS8m/518787325-17925858492093229-3027044264777806644-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un lancero que lucha con la furia del fuego.",
@@ -86,7 +86,7 @@
     {
         "id": "E007",
         "nombre": "Casco Carmesí",
-        "imagen": "casco_carmesi.png",
+        "imagen": "https://i.ibb.co/zhdbTDDJ/487841745-17963175023860731-4231105202809126028-n.webp",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Un casco que protege contra las llamas.",
@@ -100,7 +100,7 @@
     {
         "id": "E008",
         "nombre": "Guerrero Carmesí",
-        "imagen": "guerrero_carmesi.png",
+        "imagen": "https://i.ibb.co/LzbsRMFq/530615079-17976735458860731-1501830180242433937-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un guerrero que lucha con la fuerza del fuego eterno.",
@@ -114,7 +114,7 @@
     {
         "id": "E009",
         "nombre": "Ballesta Carmesí",
-        "imagen": "ballesta_carmesi.png",
+        "imagen": "https://i.ibb.co/SDfrKJ16/539441725-17930977218093229-424065512232157470-n.jpg",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Una ballesta que dispara proyectiles ardientes.",
@@ -128,7 +128,7 @@
     {
         "id": "E010",
         "nombre": "Explorador Carmesí",
-        "imagen": "explorador_carmesi.png",
+        "imagen": "https://i.ibb.co/5x4FmrNs/588584662-17988818102860731-4620014377722991036-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un explorador que se mueve con la velocidad del fuego.",
@@ -142,7 +142,7 @@
     {
         "id": "E011",
         "nombre": "Guantes Carmesí",
-        "imagen": "guantes_carmesi.png",
+        "imagen": "https://i.ibb.co/SXhRvMwW/619510868-17947530354093229-5870005168572063936-n.jpg",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Guantes que canalizan energía ardiente.",
@@ -156,7 +156,7 @@
     {
         "id": "E012",
         "nombre": "Monje Carmesí",
-        "imagen": "monje_carmesi.png",
+        "imagen": "https://i.ibb.co/d0bx1xxx/505429113-17953332212969396-1610692913767035966-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un monje que medita bajo las llamas eternas.",
@@ -170,7 +170,7 @@
     {
         "id": "E013",
         "nombre": "Martillo Carmesí",
-        "imagen": "martillo_carmesi.png",
+        "imagen": "https://i.ibb.co/TxwNynGV/551977404-17981399147860731-8107032235479471682-n.webp",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Un martillo que descarga fuego al golpear.",
@@ -184,7 +184,7 @@
     {
         "id": "E014",
         "nombre": "Cazador Carmesí",
-        "imagen": "cazador_carmesi.png",
+        "imagen": "https://i.ibb.co/60J6GFNh/599331764-17942882772093229-6730976733350011208-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un cazador que aprovecha la energía del fuego.",
@@ -198,7 +198,7 @@
     {
         "id": "E015",
         "nombre": "Escudo Carmesí",
-        "imagen": "escudo_carmesi.png",
+        "imagen": "https://i.ibb.co/TDVcX7SL/587287997-17988214676860731-3600064941578773533-n.webp",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Un escudo que absorbe la energía del fuego.",
@@ -212,7 +212,7 @@
     {
         "id": "E016",
         "nombre": "Caballero Espectral",
-        "imagen": "caballero_espectral.png",
+        "imagen": "https://i.ibb.co/d0xt5M9k/482377991-17959994351860731-3446008484898602386-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un caballero envuelto en energía fantasmal.",
@@ -226,7 +226,7 @@
     {
         "id": "E017",
         "nombre": "Espada Espectral",
-        "imagen": "espada_espectral.png",
+        "imagen": "https://i.ibb.co/wZhQZM5V/538861598-17930977227093229-5002355999964952538-n.jpg",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Una espada que atraviesa la materia con facilidad.",
@@ -240,7 +240,7 @@
     {
         "id": "E018",
         "nombre": "Armadura Espectral",
-        "imagen": "armadura_espectral.png",
+        "imagen": "https://i.ibb.co/cdmWwjp/525382068-17975663438860731-9169511270021144801-n.webp",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Una armadura que protege contra ataques mágicos.",
@@ -254,7 +254,7 @@
     {
         "id": "E019",
         "nombre": "Hechicero Espectral",
-        "imagen": "hechicero_espectral.png",
+        "imagen": "https://i.ibb.co/zTF2Z9Wr/588593859-17942805258093229-5042297235921693004-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un mago que controla las fuerzas del más allá.",
@@ -268,7 +268,7 @@
     {
         "id": "E020",
         "nombre": "Arco Espectral",
-        "imagen": "arco_espectral.png",
+        "imagen": "https://i.ibb.co/n8nWPb9D/610629601-17993038439860731-8947078840521036735-n.webp",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Un arco que dispara flechas fantasmales.",
@@ -282,7 +282,7 @@
     {
         "id": "E021",
         "nombre": "Lancero Espectral",
-        "imagen": "lancero_espectral.png",
+        "imagen": "https://i.ibb.co/Lf631QH/591156506-17942035434093229-4320828845936981091-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un lancero que lucha con energía espectral.",
@@ -296,7 +296,7 @@
     {
         "id": "E022",
         "nombre": "Casco Espectral",
-        "imagen": "casco_espectral.png",
+        "imagen": "https://i.ibb.co/GmPL8bW/518164260-17974101473860731-8517788505613473247-n.webp",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Un casco que protege contra ataques espirituales.",
@@ -310,7 +310,7 @@
     {
         "id": "E023",
         "nombre": "Guerrero Espectral",
-        "imagen": "guerrero_espectral.png",
+        "imagen": "https://i.ibb.co/Y4pPfY32/479900093-17958562718860731-7156116407085347709-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un guerrero que lucha con la fuerza de los espíritus.",
@@ -324,7 +324,7 @@
     {
         "id": "E024",
         "nombre": "Ballesta Espectral",
-        "imagen": "ballesta_espectral.png",
+        "imagen": "https://i.ibb.co/B2r4gx8B/537854421-17978296709860731-8159216707248045670-n.webp",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Una ballesta que dispara proyectiles fantasmales.",
@@ -338,7 +338,7 @@
     {
         "id": "E025",
         "nombre": "Explorador Espectral",
-        "imagen": "explorador_espectral.png",
+        "imagen": "https://i.ibb.co/RTfb0XnH/488153166-17944841546969396-5528718790181247916-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un explorador que se mueve entre dimensiones.",
@@ -352,7 +352,7 @@
     {
         "id": "E026",
         "nombre": "Guantes Espectrales",
-        "imagen": "guantes_espectrales.png",
+        "imagen": "https://i.ibb.co/B54xkZ5X/560418368-17935687146093229-1080069729381572040-n.jpg",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Guantes que canalizan energía espiritual.",
@@ -366,7 +366,7 @@
     {
         "id": "E027",
         "nombre": "Monje Espectral",
-        "imagen": "monje_espectral.png",
+        "imagen": "https://i.ibb.co/jZPym15V/609114769-17945364771093229-4396074694566291711-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un monje que medita entre los espíritus.",
@@ -380,7 +380,7 @@
     {
         "id": "E028",
         "nombre": "Martillo Espectral",
-        "imagen": "martillo_espectral.png",
+        "imagen": "https://i.ibb.co/Jw9gx7tV/531302435-17977439228860731-5294037652553179698-n.webp",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Un martillo que descarga energía espiritual.",
@@ -394,7 +394,7 @@
     {
         "id": "E029",
         "nombre": "Cazador Espectral",
-        "imagen": "cazador_espectral.png",
+        "imagen": "https://i.ibb.co/v4mpSsBH/524916419-17975663447860731-6203137269229231513-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un cazador que aprovecha la energía de los espíritus.",
@@ -408,7 +408,7 @@
     {
         "id": "E030",
         "nombre": "Escudo Espectral",
-        "imagen": "escudo_espectral.png",
+        "imagen": "https://i.ibb.co/hFW6gG7g/472716947-17938409975969396-2657838956043904555-n.jpg",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Un escudo que absorbe la energía espiritual.",
@@ -422,7 +422,7 @@
     {
         "id": "E031",
         "nombre": "Caballero Celestial",
-        "imagen": "caballero_celestial.png",
+        "imagen": "https://i.ibb.co/yFGQ3PwF/482120821-17959662875860731-5510335469231684398-n.webp",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un caballero bendecido por la luz divina.",
@@ -436,7 +436,7 @@
     {
         "id": "E032",
         "nombre": "Espada Celestial",
-        "imagen": "espada_celestial.png",
+        "imagen": "https://i.ibb.co/yBy9L98P/590515565-17944232274093229-7331762947320195783-n.jpg",
         "rareza": "epico",
         "tipo": "Arma",
         "descripcion": "Una espada que brilla con energía sagrada.",
@@ -450,7 +450,7 @@
     {
         "id": "E033",
         "nombre": "Armadura Celestial",
-        "imagen": "armadura_celestial.png",
+        "imagen": "https://i.ibb.co/23KSQ4L9/548877907-17980600901860731-6158492601009736794-n.webp",
         "rareza": "epico",
         "tipo": "Accesorio",
         "descripcion": "Una armadura que protege con la fuerza de la fe.",
@@ -464,7 +464,7 @@
     {
         "id": "E034",
         "nombre": "Hechicero Celestial",
-        "imagen": "hechicero_celestial.png",
+        "imagen": "https://i.ibb.co/zLLTwNW/481852110-472805259104043-8588257249962975722-n.jpg",
         "rareza": "epico",
         "tipo": "Personaje",
         "descripcion": "Un mago que canaliza la energía de los cielos.",
@@ -473,160 +473,6 @@
             "ataque": 50,
             "defensa": 35,
             "velocidad": 27
-        }
-    },
-    {
-        "id": "E035",
-        "nombre": "Arco Celestial",
-        "imagen": "arco_celestial.png",
-        "rareza": "epico",
-        "tipo": "Arma",
-        "descripcion": "Un arco que dispara flechas de luz pura.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 52,
-            "defensa": 0,
-            "velocidad": 17
-        }
-    },
-    {
-        "id": "E036",
-        "nombre": "Lancero Celestial",
-        "imagen": "lancero_celestial.png",
-        "rareza": "epico",
-        "tipo": "Personaje",
-        "descripcion": "Un lancero que lucha con la fuerza de los cielos.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 54,
-            "defensa": 39,
-            "velocidad": 20
-        }
-    },
-    {
-        "id": "E037",
-        "nombre": "Casco Celestial",
-        "imagen": "casco_celestial.png",
-        "rareza": "epico",
-        "tipo": "Accesorio",
-        "descripcion": "Un casco que protege contra la oscuridad.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 0,
-            "defensa": 42,
-            "velocidad": -2
-        }
-    },
-    {
-        "id": "E038",
-        "nombre": "Guerrero Celestial",
-        "imagen": "guerrero_celestial.png",
-        "rareza": "epico",
-        "tipo": "Personaje",
-        "descripcion": "Un guerrero que lucha con la fuerza de la luz.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 51,
-            "defensa": 41,
-            "velocidad": 22
-        }
-    },
-    {
-        "id": "E039",
-        "nombre": "Ballesta Celestial",
-        "imagen": "ballesta_celestial.png",
-        "rareza": "epico",
-        "tipo": "Arma",
-        "descripcion": "Una ballesta que dispara proyectiles de energía sagrada.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 49,
-            "defensa": 0,
-            "velocidad": 14
-        }
-    },
-    {
-        "id": "E040",
-        "nombre": "Explorador Celestial",
-        "imagen": "explorador_celestial.png",
-        "rareza": "epico",
-        "tipo": "Personaje",
-        "descripcion": "Un explorador que se mueve con la velocidad de la luz.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 47,
-            "defensa": 36,
-            "velocidad": 30
-        }
-    },
-    {
-        "id": "E041",
-        "nombre": "Guantes Celestiales",
-        "imagen": "guantes_celestiales.png",
-        "rareza": "epico",
-        "tipo": "Accesorio",
-        "descripcion": "Guantes que canalizan energía divina.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 10,
-            "defensa": 29,
-            "velocidad": 4
-        }
-    },
-    {
-        "id": "E042",
-        "nombre": "Monje Celestial",
-        "imagen": "monje_celestial.png",
-        "rareza": "epico",
-        "tipo": "Personaje",
-        "descripcion": "Un monje que medita bajo la luz divina.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 45,
-            "defensa": 49,
-            "velocidad": 20
-        }
-    },
-    {
-        "id": "E043",
-        "nombre": "Martillo Celestial",
-        "imagen": "martillo_celestial.png",
-        "rareza": "epico",
-        "tipo": "Arma",
-        "descripcion": "Un martillo que descarga energía divina.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 56,
-            "defensa": 0,
-            "velocidad": -1
-        }
-    },
-    {
-        "id": "E044",
-        "nombre": "Cazador Celestial",
-        "imagen": "cazador_celestial.png",
-        "rareza": "epico",
-        "tipo": "Personaje",
-        "descripcion": "Un cazador que aprovecha la energía de los cielos.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 48,
-            "defensa": 37,
-            "velocidad": 24
-        }
-    },
-    {
-        "id": "E045",
-        "nombre": "Escudo Celestial",
-        "imagen": "escudo_celestial.png",
-        "rareza": "epico",
-        "tipo": "Accesorio",
-        "descripcion": "Un escudo que absorbe la energía divina.",
-        "probabilidad": 0.07,
-        "stats": {
-            "ataque": 0,
-            "defensa": 55,
-            "velocidad": -5
         }
     }
 ]

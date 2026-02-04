@@ -2,7 +2,7 @@
     {
         "id": "R001",
         "nombre": "Caballero de Plata",
-        "imagen": "caballero_plata.png",
+        "imagen": "https://i.ibb.co/RTk4HSXz/457027544-1197669794887278-3511143224207252600-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un caballero con armadura de plata, más resistente que los comunes.",
@@ -16,7 +16,7 @@
     {
         "id": "R002",
         "nombre": "Espada de Plata",
-        "imagen": "espada_plata.png",
+        "imagen": "https://i.ibb.co/G3WmvH7P/469221812-8191708134261979-7726010952905225569-n.jpg",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una espada brillante de plata, más afilada que las básicas.",
@@ -30,7 +30,7 @@
     {
         "id": "R003",
         "nombre": "Armadura de Hierro Forjado",
-        "imagen": "armadura_hierro_forjado.png",
+        "imagen": "https://i.ibb.co/S4GGgj68/472347247-17938575491969396-5237408678674725085-n-copia.jpg",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Una armadura sólida que ofrece gran protección.",
@@ -44,7 +44,7 @@
     {
         "id": "R004",
         "nombre": "Mago de Cristal",
-        "imagen": "mago_cristal.png",
+        "imagen": "https://i.ibb.co/cXSSjd79/472620797-17938409993969396-313706934073642438-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un mago que domina hechizos de cristal.",
@@ -58,7 +58,7 @@
     {
         "id": "R005",
         "nombre": "Arco de Plata",
-        "imagen": "arco_plata.png",
+        "imagen": "https://i.ibb.co/CpjvfZRh/478001081-17958193256860731-7961797005339690205-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un arco refinado que dispara con gran precisión.",
@@ -72,7 +72,7 @@
     {
         "id": "R006",
         "nombre": "Lancero de Hierro",
-        "imagen": "lancero_hierro.png",
+        "imagen": "https://i.ibb.co/hJj9Scv0/481690375-17959662854860731-2751906759945794841-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un lancero entrenado con armas de hierro.",
@@ -86,7 +86,7 @@
     {
         "id": "R007",
         "nombre": "Casco de Plata",
-        "imagen": "casco_plata.png",
+        "imagen": "https://i.ibb.co/m5sjP5nT/484545952-17961669023860731-4474282032849838010-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un casco resistente que protege mejor que los comunes.",
@@ -100,7 +100,7 @@
     {
         "id": "R008",
         "nombre": "Guerrero de Bronce",
-        "imagen": "guerrero_bronce.png",
+        "imagen": "https://i.ibb.co/21smh43L/487706447-17963175014860731-1489622597866888092-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un guerrero con armadura de bronce reforzado.",
@@ -114,7 +114,7 @@
     {
         "id": "R009",
         "nombre": "Ballesta de Hierro",
-        "imagen": "ballesta_hierro.png",
+        "imagen": "https://i.ibb.co/Z6PG73dX/480918466-17958880103860731-6758734744572358632-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una ballesta reforzada con hierro, más potente.",
@@ -128,7 +128,7 @@
     {
         "id": "R010",
         "nombre": "Explorador de Plata",
-        "imagen": "explorador_plata.png",
+        "imagen": "https://i.ibb.co/P8tjdXF/481200483-17959203500860731-1079676192676908511-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un explorador ágil con equipo refinado.",
@@ -142,7 +142,7 @@
     {
         "id": "R011",
         "nombre": "Guantes de Hierro",
-        "imagen": "guantes_hierro.png",
+        "imagen": "https://i.ibb.co/G68p8vY/491438170-17965192109860731-4346633361033691509-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Guantes reforzados que aumentan la fuerza.",
@@ -156,7 +156,7 @@
     {
         "id": "R012",
         "nombre": "Monje de Hierro",
-        "imagen": "monje_hierro.png",
+        "imagen": "https://i.ibb.co/HD5z1t6H/494755971-17966120732860731-2142499864646920742-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un monje disciplinado con gran resistencia.",
@@ -170,7 +170,7 @@
     {
         "id": "R013",
         "nombre": "Martillo de Plata",
-        "imagen": "martillo_plata.png",
+        "imagen": "https://i.ibb.co/JjvL55WM/496209771-17966940350860731-8203071086110666307-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un martillo pesado de plata, devastador en combate.",
@@ -184,7 +184,7 @@
     {
         "id": "R014",
         "nombre": "Cazador de Lobos",
-        "imagen": "cazador_lobos.png",
+        "imagen": "https://i.ibb.co/XZd6hFP1/499196286-17968098872860731-457643341536085701-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un cazador experto en enfrentar manadas de lobos.",
@@ -198,7 +198,7 @@
     {
         "id": "R015",
         "nombre": "Escudo de Plata",
-        "imagen": "escudo_plata.png",
+        "imagen": "https://i.ibb.co/d0SR3rNr/496824371-17966940332860731-6922480422385312455-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un escudo brillante que ofrece gran defensa.",
@@ -212,7 +212,7 @@
     {
         "id": "R016",
         "nombre": "Caballero de Hierro",
-        "imagen": "caballero_hierro.png",
+        "imagen": "https://i.ibb.co/0jFHQGXp/491440775-17965407317860731-992692835359736258-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un caballero con armadura de hierro reforzado.",
@@ -226,7 +226,7 @@
     {
         "id": "R017",
         "nombre": "Espada de Cristal",
-        "imagen": "espada_cristal.png",
+        "imagen": "https://i.ibb.co/C36LLJNh/494266710-17966120723860731-3630394167035446204-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una espada mágica forjada con cristal puro.",
@@ -240,7 +240,7 @@
     {
         "id": "R018",
         "nombre": "Armadura de Plata Pulida",
-        "imagen": "armadura_plata_pulida.png",
+        "imagen": "https://i.ibb.co/MxrQv52j/499550683-17877228012337337-1160839027985218762-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Una armadura brillante que refleja la luz.",
@@ -254,7 +254,7 @@
     {
         "id": "R019",
         "nombre": "Hechicero de Hielo",
-        "imagen": "hechicero_hielo.png",
+        "imagen": "https://i.ibb.co/Dg64Yx3W/499481311-17968098893860731-8823266633628543360-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un mago que controla los poderes del hielo.",
@@ -268,7 +268,7 @@
     {
         "id": "R020",
         "nombre": "Arco de Hierro",
-        "imagen": "arco_hierro.png",
+        "imagen": "https://i.ibb.co/MxBsQ0Jh/488806962-17944841519969396-1528149661525423670-n.jpg",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un arco reforzado con hierro, más duradero.",
@@ -282,7 +282,7 @@
     {
         "id": "R021",
         "nombre": "Lancero de Plata",
-        "imagen": "lancero_plata.png",
+        "imagen": "https://i.ibb.co/TMdNkTqf/607702990-17992263905860731-5976443918542942920-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un lancero entrenado con armas de plata.",
@@ -296,7 +296,7 @@
     {
         "id": "R022",
         "nombre": "Casco de Cristal",
-        "imagen": "casco_cristal.png",
+        "imagen": "https://i.ibb.co/pGG0yp3/610160669-17855363838598919-7515111302279705991-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un casco mágico que brilla con energía.",
@@ -310,7 +310,7 @@
     {
         "id": "R023",
         "nombre": "Guerrero de Plata",
-        "imagen": "guerrero_plata.png",
+        "imagen": "https://i.ibb.co/TDL0zQ3p/619249617-17947420341093229-7670332497547612282-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un guerrero con armadura de plata refinada.",
@@ -324,7 +324,7 @@
     {
         "id": "R024",
         "nombre": "Ballesta de Plata",
-        "imagen": "ballesta_plata.png",
+        "imagen": "https://i.ibb.co/GQ0nX0gW/589645708-17989788101860731-8970940631469921999-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una ballesta de plata que dispara con precisión.",
@@ -338,7 +338,7 @@
     {
         "id": "R025",
         "nombre": "Explorador de Cristal",
-        "imagen": "explorador_cristal.png",
+        "imagen": "https://i.ibb.co/xqLvvYww/574535162-17970753956969396-4620798171483073472-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un explorador ágil con equipo mágico.",
@@ -352,7 +352,7 @@
     {
         "id": "R026",
         "nombre": "Guantes de Plata",
-        "imagen": "guantes_plata.png",
+        "imagen": "https://i.ibb.co/rKnVxKWs/549151263-17980703696860731-965756423332328464-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Guantes resistentes que aumentan la fuerza.",
@@ -366,7 +366,7 @@
     {
         "id": "R027",
         "nombre": "Monje de Plata",
-        "imagen": "monje_plata.png",
+        "imagen": "https://i.ibb.co/4w20cNcs/538404899-17978296679860731-204569546337066783-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un monje disciplinado con gran resistencia.",
@@ -380,7 +380,7 @@
     {
         "id": "R028",
         "nombre": "Martillo de Cristal",
-        "imagen": "martillo_cristal.png",
+        "imagen": "https://i.ibb.co/N2GMLxMy/530264068-17929204740093229-8037675433609944404-n.jpg",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un martillo mágico de cristal, devastador en combate.",
@@ -394,7 +394,7 @@
     {
         "id": "R029",
         "nombre": "Cazador de Osos",
-        "imagen": "cazador_osos.png",
+        "imagen": "https://i.ibb.co/9kmkP8NV/525527715-17846489448538174-8950033901766439714-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un cazador experto en enfrentar osos salvajes.",
@@ -408,7 +408,7 @@
     {
         "id": "R030",
         "nombre": "Escudo de Cristal",
-        "imagen": "escudo_cristal.png",
+        "imagen": "https://i.ibb.co/mCwBSHY1/517194788-17855907888464842-4314044022590746580-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un escudo mágico que ofrece gran defensa.",
@@ -422,7 +422,7 @@
     {
         "id": "R031",
         "nombre": "Caballero de Cristal",
-        "imagen": "caballero_cristal.png",
+        "imagen": "https://i.ibb.co/r2gcB56f/515106319-17972690561860731-8538677140166283274-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un caballero con armadura mágica de cristal.",
@@ -436,7 +436,7 @@
     {
         "id": "R032",
         "nombre": "Espada de Acero",
-        "imagen": "espada_acero.png",
+        "imagen": "https://i.ibb.co/SXKQZK73/503133575-17969547452860731-6538826821900689928-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una espada afilada de acero templado.",
@@ -450,7 +450,7 @@
     {
         "id": "R033",
         "nombre": "Armadura de Cristal",
-        "imagen": "armadura_cristal.png",
+        "imagen": "https://i.ibb.co/rRkkyj1S/610583210-17946228789093229-2349981796486288840-n.jpg",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Una armadura mágica que brilla con energía.",
@@ -464,7 +464,7 @@
     {
         "id": "R034",
         "nombre": "Hechicero de Fuego",
-        "imagen": "hechicero_fuego.png",
+        "imagen": "https://i.ibb.co/jk9t1LQv/601354992-17864207226538174-1843304698546947007-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un mago que controla las llamas con destreza.",
@@ -478,7 +478,7 @@
     {
         "id": "R035",
         "nombre": "Arco de Cristal",
-        "imagen": "arco_cristal.png",
+        "imagen": "https://i.ibb.co/4wH0gX8Y/591140036-18062885900633113-7501559245550164535-n.jpg",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un arco mágico que dispara flechas de energía.",
@@ -492,7 +492,7 @@
     {
         "id": "R036",
         "nombre": "Lancero de Cristal",
-        "imagen": "lancero_cristal.png",
+        "imagen": "lhttps://i.ibb.co/3gJD2Bx/587840773-17972321573969396-6837783031027425120-n-copia.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un lancero con armas mágicas de cristal.",
@@ -506,7 +506,7 @@
     {
         "id": "R037",
         "nombre": "Casco de Acero",
-        "imagen": "casco_acero.png",
+        "imagen": "https://i.ibb.co/DPHGRBbR/571965470-17985376700860731-920845531005404571-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un casco sólido de acero templado.",
@@ -520,7 +520,7 @@
     {
         "id": "R038",
         "nombre": "Guerrero de Cristal",
-        "imagen": "guerrero_cristal.png",
+        "imagen": "https://i.ibb.co/xt81WZwD/550752188-17933958483093229-8169889931272862662-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un guerrero con armadura mágica de cristal.",
@@ -534,7 +534,7 @@
     {
         "id": "R039",
         "nombre": "Ballesta de Cristal",
-        "imagen": "ballesta_cristal.png",
+        "imagen": "https://i.ibb.co/SXYHCMT8/543622346-17980099706860731-5920087865725089191-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una ballesta mágica que dispara proyectiles de energía.",
@@ -548,7 +548,7 @@
     {
         "id": "R040",
         "nombre": "Explorador de Acero",
-        "imagen": "explorador_acero.png",
+        "imagen": "https://i.ibb.co/nM15RMpX/537692411-17978296688860731-6373411104878737970-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un explorador equipado con armas de acero.",
@@ -562,7 +562,7 @@
     {
         "id": "R041",
         "nombre": "Guantes de Cristal",
-        "imagen": "guantes_cristal.png",
+        "imagen": "https://i.ibb.co/KpMq5gF4/526591307-17976031838860731-5330910824222100120-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Guantes mágicos que aumentan la fuerza.",
@@ -576,7 +576,7 @@
     {
         "id": "R042",
         "nombre": "Monje de Cristal",
-        "imagen": "monje_cristal.png",
+        "imagen": "https://i.ibb.co/tT8zTjTM/516584269-17973255716860731-4488948537794185177-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un monje que canaliza energía mágica.",
@@ -590,7 +590,7 @@
     {
         "id": "R043",
         "nombre": "Martillo de Acero",
-        "imagen": "martillo_acero.png",
+        "imagen": "https://i.ibb.co/XrDt80qN/520002060-17974101476860731-1963942878534052104-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un martillo pesado de acero templado.",
@@ -604,7 +604,7 @@
     {
         "id": "R044",
         "nombre": "Cazador de Dragones",
-        "imagen": "cazador_dragones.png",
+        "imagen": "https://i.ibb.co/v4TryWPH/527448530-17846489475538174-1268426291613277396-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un cazador entrenado para enfrentar dragones.",
@@ -618,7 +618,7 @@
     {
         "id": "R045",
         "nombre": "Escudo de Acero",
-        "imagen": "escudo_acero.png",
+        "imagen": "https://i.ibb.co/WpjMzjj4/515214772-17972690552860731-8413359625141981166-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un escudo sólido de acero templado.",
@@ -632,7 +632,7 @@
     {
         "id": "R046",
         "nombre": "Caballero de Acero",
-        "imagen": "caballero_acero.png",
+        "imagen": "https://i.ibb.co/RkvyMxmY/504826809-17953332185969396-1986050529798303882-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un caballero con armadura de acero templado.",
@@ -646,7 +646,7 @@
     {
         "id": "R047",
         "nombre": "Espada de Acero Pulido",
-        "imagen": "espada_acero_pulido.png",
+        "imagen": "https://i.ibb.co/kgB8j5Vm/537854421-17978372459860731-3061600736645622080-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una espada brillante de acero pulido.",
@@ -660,7 +660,7 @@
     {
         "id": "R048",
         "nombre": "Armadura de Acero",
-        "imagen": "armadura_acero.png",
+        "imagen": "https://i.ibb.co/FL0BKytb/542855700-17980099715860731-977006986612894290-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Una armadura sólida de acero templado.",
@@ -674,7 +674,7 @@
     {
         "id": "R049",
         "nombre": "Hechicero de Tormentas",
-        "imagen": "hechicero_tormentas.png",
+        "imagen": "https://i.ibb.co/C3vg3n8y/553669080-17854580922538174-4521739038034453192-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un mago que controla rayos y truenos.",
@@ -688,7 +688,7 @@
     {
         "id": "R050",
         "nombre": "Arco de Acero",
-        "imagen": "arco_acero.png",
+        "imagen": "https://i.ibb.co/fdn2MJpf/574757198-17985886565860731-871422533327925130-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un arco reforzado con acero, muy preciso.",
@@ -702,7 +702,7 @@
     {
         "id": "R051",
         "nombre": "Lancero de Acero",
-        "imagen": "lancero_acero.png",
+        "imagen": "https://i.ibb.co/QFB4TT2q/591173678-17942805303093229-2137705222183245298-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un lancero entrenado con armas de acero.",
@@ -716,7 +716,7 @@
     {
         "id": "R052",
         "nombre": "Casco de Plata Pulido",
-        "imagen": "casco_plata_pulido.png",
+        "imagen": "https://i.ibb.co/x8sD96K3/610275731-17945364780093229-8127519225085956468-n.jpg",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un casco brillante de plata pulida.",
@@ -730,7 +730,7 @@
     {
         "id": "R053",
         "nombre": "Guerrero de Acero",
-        "imagen": "guerrero_acero.png",
+        "imagen": "https://i.ibb.co/SXBhgtwq/620978271-17857873743598919-3624439949763307910-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un guerrero con armadura de acero templado.",
@@ -744,7 +744,7 @@
     {
         "id": "R054",
         "nombre": "Ballesta de Acero",
-        "imagen": "ballesta_acero.png",
+        "imagen": "https://i.ibb.co/0j9R4jPQ/589412289-17989680431860731-8890262366828558914-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una ballesta reforzada con acero, muy potente.",
@@ -758,7 +758,7 @@
     {
         "id": "R055",
         "nombre": "Explorador de Plata",
-        "imagen": "explorador_plata.png",
+        "imagen": "https://i.ibb.co/XfZYqnGL/549579003-17980925939860731-3489344798220384722-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un explorador ágil con equipo refinado.",
@@ -772,7 +772,7 @@
     {
         "id": "R056",
         "nombre": "Guantes de Acero",
-        "imagen": "guantes_acero.png",
+        "imagen": "https://i.ibb.co/SXzCzJ9C/538259938-17978372432860731-825738370242298904-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Guantes sólidos de acero que aumentan la fuerza.",
@@ -786,7 +786,7 @@
     {
         "id": "R057",
         "nombre": "Monje de Acero",
-        "imagen": "monje_acero.png",
+        "imagen": "https://i.ibb.co/hJD3tW9Q/521191300-17884299330337337-4755903998273726181-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un monje disciplinado con gran resistencia física.",
@@ -800,7 +800,7 @@
     {
         "id": "R058",
         "nombre": "Martillo de Acero Pulido",
-        "imagen": "martillo_acero_pulido.png",
+        "imagen": "https://i.ibb.co/zh6wr3PF/527445097-17976370376860731-7229650079891374082-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un martillo pesado de acero pulido.",
@@ -814,7 +814,7 @@
     {
         "id": "R059",
         "nombre": "Cazador de Serpientes",
-        "imagen": "cazador_serpientes.png",
+        "imagen": "https://i.ibb.co/mCgMRkR1/538973502-17978483141860731-1340388257223812417-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un cazador experto en enfrentar serpientes venenosas.",
@@ -828,7 +828,7 @@
     {
         "id": "R060",
         "nombre": "Escudo de Plata Reforzado",
-        "imagen": "escudo_plata_reforzado.png",
+        "imagen": "https://i.ibb.co/KjgtdJdc/516325540-17973255659860731-2470806571707101856-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un escudo de plata reforzado que ofrece gran defensa.",
@@ -842,7 +842,7 @@
     {
         "id": "R061",
         "nombre": "Caballero de Tormenta",
-        "imagen": "caballero_tormenta.png",
+        "imagen": "https://i.ibb.co/jt74Zg1/548494174-17980600928860731-4254900304607804269-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un caballero que lucha bajo la furia de las tormentas.",
@@ -856,7 +856,7 @@
     {
         "id": "R062",
         "nombre": "Espada de Tormenta",
-        "imagen": "espada_tormenta.png",
+        "imagen": "https://i.ibb.co/nq5DB5BY/572661501-17985886556860731-1168658427403684567-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una espada que canaliza la energía de los rayos.",
@@ -870,7 +870,7 @@
     {
         "id": "R063",
         "nombre": "Armadura de Tormenta",
-        "imagen": "armadura_tormenta.png",
+        "imagen": "https://i.ibb.co/9m0VFG8K/589771384-17942035425093229-5389603658791066327-n.jpg",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Una armadura que protege contra la furia de los elementos.",
@@ -884,7 +884,7 @@
     {
         "id": "R064",
         "nombre": "Hechicero de Viento",
-        "imagen": "hechicero_viento.png",
+        "imagen": "https://i.ibb.co/KcV4z1gm/610524746-17855363820598919-6860408886814164062-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un mago que controla las corrientes de aire.",
@@ -898,7 +898,7 @@
     {
         "id": "R065",
         "nombre": "Arco de Tormenta",
-        "imagen": "arco_tormenta.png",
+        "imagen": "https://i.ibb.co/gMhHPGhz/622916250-17858905245598919-505262958827331703-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un arco que dispara flechas imbuidas con energía eléctrica.",
@@ -912,7 +912,7 @@
     {
         "id": "R066",
         "nombre": "Lancero de Tormenta",
-        "imagen": "lancero_tormenta.png",
+        "imagen": "https://i.ibb.co/Zpn8c26M/551517833-17981399156860731-5832502536347426493-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un lancero que lucha con la fuerza del trueno.",
@@ -926,7 +926,7 @@
     {
         "id": "R067",
         "nombre": "Casco de Tormenta",
-        "imagen": "casco_tormenta.png",
+        "imagen": "https://i.ibb.co/8L81sSx9/520407940-17884299279337337-1552912935971899824-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un casco que protege contra los rayos.",
@@ -940,7 +940,7 @@
     {
         "id": "R068",
         "nombre": "Guerrero de Tormenta",
-        "imagen": "guerrero_tormenta.png",
+        "imagen": "https://i.ibb.co/KcXK7VF5/509645708-17881653750337337-5067987792960849878-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un guerrero que lucha con la furia de la tormenta.",
@@ -954,7 +954,7 @@
     {
         "id": "R069",
         "nombre": "Ballesta de Tormenta",
-        "imagen": "ballesta_tormenta.png",
+        "imagen": "https://i.ibb.co/jZZ73j9K/542434656-17979410498860731-5706025025528390936-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Una ballesta que dispara proyectiles eléctricos.",
@@ -968,7 +968,7 @@
     {
         "id": "R070",
         "nombre": "Explorador de Tormenta",
-        "imagen": "explorador_tormenta.png",
+        "imagen": "https://i.ibb.co/4nwDvmLC/556239756-17982103412860731-3530221713995973270-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un explorador que se mueve con la velocidad del viento.",
@@ -982,7 +982,7 @@
     {
         "id": "R071",
         "nombre": "Guantes de Tormenta",
-        "imagen": "guantes_tormenta.png",
+        "imagen": "https://i.ibb.co/7t4NgJLH/588224621-17988520235860731-5422279676627772366-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Guantes que canalizan energía eléctrica.",
@@ -996,7 +996,7 @@
     {
         "id": "R072",
         "nombre": "Monje de Tormenta",
-        "imagen": "monje_tormenta.png",
+        "imagen": "https://i.ibb.co/My6kk5M7/610951446-17946340389093229-1124589919056272390-n.jpg",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un monje que medita bajo la furia de los rayos.",
@@ -1010,7 +1010,7 @@
     {
         "id": "R073",
         "nombre": "Martillo de Tormenta",
-        "imagen": "martillo_tormenta.png",
+        "imagen": "https://i.ibb.co/MkwwfrgR/531725184-17977439246860731-7562460038780778314-n.webp",
         "rareza": "rare",
         "tipo": "Arma",
         "descripcion": "Un martillo que descarga rayos al golpear.",
@@ -1024,7 +1024,7 @@
     {
         "id": "R074",
         "nombre": "Cazador de Tormentas",
-        "imagen": "cazador_tormentas.png",
+        "imagen": "https://i.ibb.co/mFt6V2c5/501269612-17968639880860731-8629438122929622013-n.webp",
         "rareza": "rare",
         "tipo": "Personaje",
         "descripcion": "Un cazador que aprovecha la energía de las tormentas.",
@@ -1038,7 +1038,217 @@
     {
         "id": "R075",
         "nombre": "Escudo de Tormenta",
-        "imagen": "escudo_tormenta.png",
+        "imagen": "https://i.ibb.co/Gfm87HtV/517127452-17884299309337337-8747381244071545966-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R076",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/LdqFr4Cc/550279183-17981101034860731-9096992210924161934-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R077",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/hxgsm91q/598634154-17863706214538174-4239527999227667848-n.jpg",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R078",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/5W3FGB53/613250586-17946228762093229-6790293427104202122-n.jpg",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R079",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/qLPtQxYq/532148152-17977439225860731-5927031869112531374-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R080",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/jZJyqXQh/605870739-17991950801860731-6259532097303738327-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R081",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/tp4TYTSD/623791606-17858905266598919-580441473994895743-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R082",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/dJJ6CSfX/587378514-17988818075860731-181015520720406546-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R083",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/Df0D7T0M/538163212-17978483159860731-483873721483611218-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R084",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/k6QSfGqn/604359366-17853395100598919-1016908373619332826-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R085",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/vCyBBnvp/526344357-17976031874860731-5458064786777527144-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R086",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/zhxRYb3q/586701408-17972775515969396-8572897034009294578-n.jpg",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R087",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/pvM5NXxC/510399618-17882639562337337-633801699608491122-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R088",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/rKq0d1g6/547505465-17980600892860731-9146341848594636655-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R089",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/RkPn5DY3/572135121-17985504773860731-8569011851943418962-n.webp",
+        "rareza": "rare",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía de los rayos.",
+        "probabilidad": 0.20,
+        "stats": {
+            "ataque": 0,
+            "defensa": 41,
+            "velocidad": -4
+        }
+    },
+    {
+        "id": "R090",
+        "nombre": "Escudo de Tormenta",
+        "imagen": "https://i.ibb.co/84sPCmVM/626309891-17859404697598919-7922195287416294419-n.webp",
         "rareza": "rare",
         "tipo": "Accesorio",
         "descripcion": "Un escudo que absorbe la energía de los rayos.",

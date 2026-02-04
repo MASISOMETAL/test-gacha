@@ -2,7 +2,7 @@
   {
     "id": "C001",
     "nombre": "Soldado Novato",
-    "imagen": "soldado_novato.png",
+    "imagen": "https://i.ibb.co/wrrBKvhL/472593790-17937732884969396-2234904248709593856-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un recluta recién llegado al campo de batalla.",
@@ -16,7 +16,7 @@
   {
     "id": "C002",
     "nombre": "Arco de Madera",
-    "imagen": "arco_madera.png",
+    "imagen": "https://i.ibb.co/S4GGgj68/472347247-17938575491969396-5237408678674725085-n-copia.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un arco rudimentario hecho de madera ligera.",
@@ -30,7 +30,7 @@
   {
     "id": "C003",
     "nombre": "Escudo Roto",
-    "imagen": "escudo_roto.png",
+    "imagen": "https://i.ibb.co/3mT256b0/464670159-17925561032969396-4776246110645028747-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un escudo desgastado que apenas protege.",
@@ -44,7 +44,7 @@
   {
     "id": "C004",
     "nombre": "Aprendiz de Mago",
-    "imagen": "aprendiz_mago.png",
+    "imagen": "https://i.ibb.co/SDbcrZL6/464464553-17925561020969396-4138662932024534430-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas entiende los conjuros básicos.",
@@ -58,7 +58,7 @@
   {
     "id": "C005",
     "nombre": "Espada Oxidada",
-    "imagen": "espada_oxidada.png",
+    "imagen": "https://i.ibb.co/k2w73LWh/626854145-17879928939460991-2934187732500157799-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada vieja y oxidada, pero aún útil.",
@@ -72,7 +72,7 @@
   {
     "id": "C006",
     "nombre": "Campesino",
-    "imagen": "campesino.png",
+    "imagen": "https://i.ibb.co/7JV4mGFx/626468720-17879929017460991-8686784995514421479-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un trabajador del campo con pocas habilidades de combate.",
@@ -86,7 +86,7 @@
   {
     "id": "C007",
     "nombre": "Casco Abollado",
-    "imagen": "casco_abollado.png",
+    "imagen": "https://i.ibb.co/TqMbc49L/626217185-17859404682598919-8839499539790741480-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Protege un poco, aunque está lleno de golpes.",
@@ -100,7 +100,7 @@
   {
     "id": "C008",
     "nombre": "Hacha de Piedra",
-    "imagen": "hacha_piedra.png",
+    "imagen": "https://i.ibb.co/JRsmRQx4/626212943-17879928924460991-8867539440306622625-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un arma rudimentaria hecha de piedra y madera.",
@@ -114,7 +114,7 @@
   {
     "id": "C009",
     "nombre": "Explorador",
-    "imagen": "explorador.png",
+    "imagen": "https://i.ibb.co/bnp3B1w/624708884-17907770109337337-4789312339188112834-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un viajero que conoce bien los caminos.",
@@ -128,7 +128,7 @@
   {
     "id": "C010",
     "nombre": "Guantes Viejos",
-    "imagen": "guantes_viejos.png",
+    "imagen": "https://i.ibb.co/cc4cpjKj/624655652-17907770097337337-8469498577431641166-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Guantes desgastados que ofrecen mínima protección.",
@@ -142,7 +142,7 @@
   {
     "id": "C011",
     "nombre": "Lancero Amateur",
-    "imagen": "lancero_amateur.png",
+    "imagen": "https://i.ibb.co/1Yr4P1C4/624224017-17907770160337337-4477999745930781030-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un lancero sin mucha experiencia.",
@@ -156,7 +156,7 @@
   {
     "id": "C012",
     "nombre": "Capa Desgastada",
-    "imagen": "capa_desgastada.png",
+    "imagen": "https://i.ibb.co/jkr2VhYm/624176564-17907770139337337-1429243225159914871-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Una capa vieja que apenas protege del frío.",
@@ -170,7 +170,7 @@
   {
     "id": "C013",
     "nombre": "Armadura Ligera",
-    "imagen": "armadura_ligera.png",
+    "imagen": "https://i.ibb.co/S44V7brr/624153359-17907770211337337-9082673978676458063-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Una armadura básica de cuero.",
@@ -184,7 +184,7 @@
   {
     "id": "C014",
     "nombre": "Espadachín Errante",
-    "imagen": "espadachin_errante.png",
+    "imagen": "https://i.ibb.co/hR21Ct2V/623464908-17882070669450983-4753854901701456166-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un viajero que lucha por sobrevivir.",
@@ -198,7 +198,7 @@
   {
     "id": "C015",
     "nombre": "Ballesta Vieja",
-    "imagen": "ballesta_vieja.png",
+    "imagen": "https://i.ibb.co/R4cCYRJP/623258147-17907385332337337-1936664007473008010-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una ballesta antigua con poca precisión.",
@@ -212,7 +212,7 @@
   {
     "id": "C016",
     "nombre": "Arquero Inexperto",
-    "imagen": "arquero_inexperto.png",
+    "imagen": "https://i.ibb.co/BK3LKd5W/622274133-17906956440337337-6844380326856349081-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un arquero que apenas sabe apuntar.",
@@ -226,7 +226,7 @@
   {
     "id": "C017",
     "nombre": "Martillo Liviano",
-    "imagen": "martillo_liviano.png",
+    "imagen": "https://i.ibb.co/KcXXvnkL/622207508-17906956485337337-6153573197988346222-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un martillo pequeño usado en trabajos básicos.",
@@ -240,7 +240,7 @@
   {
     "id": "C018",
     "nombre": "Botas Viejas",
-    "imagen": "botas_viejas.png",
+    "imagen": "https://i.ibb.co/SDD49P4M/622043321-17907070524337337-6868913499293610639-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Botas desgastadas que apenas ayudan a caminar.",
@@ -254,7 +254,7 @@
   {
     "id": "C019",
     "nombre": "Aprendiz de Guerrero",
-    "imagen": "aprendiz_guerrero.png",
+    "imagen": "https://i.ibb.co/FbmKtY72/621693279-17907385293337337-3215281220217952527-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que sueña con ser héroe.",
@@ -268,7 +268,7 @@
   {
     "id": "C020",
     "nombre": "Espada de Entrenamiento",
-    "imagen": "espada_entrenamiento.png",
+    "imagen": "https://i.ibb.co/8DGHjdMG/621676543-17907385224337337-3895590921064348062-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Espada de madera usada en prácticas.",
@@ -282,7 +282,7 @@
   {
     "id": "C021",
     "nombre": "Cazador Errante",
-    "imagen": "cazador_errante.png",
+    "imagen": "https://i.ibb.co/wrLKyq1p/621604126-17907070512337337-531703611236904035-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cazador que recorre bosques en busca de presas.",
@@ -296,7 +296,7 @@
   {
     "id": "C022",
     "nombre": "Sombrero de Paja",
-    "imagen": "sombrero_paja.png",
+    "imagen": "https://i.ibb.co/21RwMNVn/621588372-17907385266337337-8839381755078603133-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Sombrero simple que protege del sol.",
@@ -310,7 +310,7 @@
   {
     "id": "C023",
     "nombre": "Hacha Liviana",
-    "imagen": "hacha_liviana.png",
+    "imagen": "https://i.ibb.co/zhL4VsHg/621235278-17907070626337337-7366478667976488662-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un hacha pequeña, fácil de manejar.",
@@ -324,7 +324,7 @@
   {
     "id": "C024",
     "nombre": "Mercader",
-    "imagen": "mercader.png",
+    "imagen": "https://i.ibb.co/23jyhz0m/620721155-17906956404337337-3148397136769621517-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un comerciante que viaja entre pueblos.",
@@ -338,7 +338,7 @@
   {
     "id": "C025",
     "nombre": "Guantes de Cuero",
-    "imagen": "guantes_cuero.png",
+    "imagen": "https://i.ibb.co/0RtbGKbX/620528049-17857873716598919-4847591400842473667-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Guantes simples que ofrecen mínima protección.",
@@ -352,7 +352,7 @@
   {
     "id": "C026",
     "nombre": "Pastor",
-    "imagen": "pastor.png",
+    "imagen": "https://i.ibb.co/Kjr0whc3/620380307-17857873725598919-2795058282214695412-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cuidador de ovejas con poco entrenamiento.",
@@ -366,7 +366,7 @@
   {
     "id": "C027",
     "nombre": "Espada Rota",
-    "imagen": "espada_rota.png",
+    "imagen": "https://i.ibb.co/KpvJjc0m/619498768-17947530324093229-641137327235372169-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada partida que apenas sirve.",
@@ -380,7 +380,7 @@
   {
     "id": "C028",
     "nombre": "Armadura de Tela",
-    "imagen": "armadura_tela.png",
+    "imagen": "https://i.ibb.co/My9T1kyN/619190072-17947420332093229-3993084239790815366-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Protección mínima hecha de tela gruesa.",
@@ -394,7 +394,7 @@
   {
     "id": "C029",
     "nombre": "Cocinero",
-    "imagen": "cocinero.png",
+    "imagen": "https://i.ibb.co/v4V3qHTr/618134335-17880383931450983-8222628918031133838-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cocinero que defiende su cocina con cuchillos.",
@@ -408,7 +408,7 @@
   {
     "id": "C030",
     "nombre": "Cuchillo Oxidado",
-    "imagen": "cuchillo_oxidado.png",
+    "imagen": "https://i.ibb.co/cSPfMSNV/617232841-17905886691337337-4749363942337437686-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un cuchillo viejo y oxidado.",
@@ -422,7 +422,7 @@
   {
     "id": "C031",
     "nombre": "Aprendiz de Arquero",
-    "imagen": "aprendiz_arquero.png",
+    "imagen": "https://i.ibb.co/4R6W22ST/616514611-17880383904450983-1893111994197774468-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas sabe tensar el arco.",
@@ -436,7 +436,7 @@
   {
     "id": "C032",
     "nombre": "Maza Liviana",
-    "imagen": "maza_liviana.png",
+    "imagen": "https://i.ibb.co/7NYk6Gh0/616111802-17905886862337337-3889182089797783776-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una maza pequeña usada en entrenamientos.",
@@ -450,7 +450,7 @@
   {
     "id": "C033",
     "nombre": "Cinturón Viejo",
-    "imagen": "cinturon_viejo.png",
+    "imagen": "https://i.ibb.co/Kz66N9Kc/616099024-17905886742337337-1659796237446256276-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un cinturón desgastado que apenas sostiene.",
@@ -464,7 +464,7 @@
   {
     "id": "C034",
     "nombre": "Monje Errante",
-    "imagen": "monje_errante.png",
+    "imagen": "https://i.ibb.co/qFFvSJzD/612461793-17856175488598919-5568527569702339805-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un monje viajero con conocimientos básicos.",
@@ -478,7 +478,7 @@
   {
     "id": "C035",
     "nombre": "Espada de Bronce",
-    "imagen": "espada_bronce.png",
+    "imagen": "https://i.ibb.co/84G0m66x/612404893-17945914149093229-6355746971196280912-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada simple de bronce.",
@@ -492,7 +492,7 @@
   {
     "id": "C036",
     "nombre": "Aprendiz de Hechicero",
-    "imagen": "aprendiz_hechicero.png",
+    "imagen": "https://i.ibb.co/8nS3bZjy/610966101-17855363802598919-4988713789323356281-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas controla la magia.",
@@ -506,7 +506,7 @@
   {
     "id": "C037",
     "nombre": "Collar de Madera",
-    "imagen": "collar_madera.png",
+    "imagen": "https://i.ibb.co/4ZK42kGK/610669212-17904234993337337-6531508584825013252-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un collar rudimentario sin poderes especiales.",
@@ -520,7 +520,7 @@
   {
     "id": "C038",
     "nombre": "Guerrero Errante",
-    "imagen": "guerrero_errante.png",
+    "imagen": "https://i.ibb.co/JjBPnhgb/610545006-17904235455337337-4058437593306714726-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un luchador que viaja sin rumbo fijo.",
@@ -534,7 +534,7 @@
   {
     "id": "C039",
     "nombre": "Daga de Hierro",
-    "imagen": "daga_hierro.png",
+    "imagen": "https://i.ibb.co/h1MZh8Fx/609926780-17904235035337337-5304282247544470836-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una daga básica de hierro.",
@@ -548,7 +548,7 @@
   {
     "id": "C040",
     "nombre": "Carpintero",
-    "imagen": "carpintero.png",
+    "imagen": "https://i.ibb.co/Zp0qf608/609844196-17904235179337337-8287662538593153020-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un trabajador de la madera con herramientas simples.",
@@ -562,7 +562,7 @@
   {
     "id": "C041",
     "nombre": "Casco de Cuero",
-    "imagen": "casco_cuero.png",
+    "imagen": "https://i.ibb.co/VYZ0BvRt/607104197-17854101807598919-1731151761769477771-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un casco básico hecho de cuero.",
@@ -576,7 +576,7 @@
   {
     "id": "C042",
     "nombre": "Aprendiz de Lancero",
-    "imagen": "aprendiz_lancero.png",
+    "imagen": "https://i.ibb.co/Xf5L6KVz/606868708-17854101777598919-7871080099318638245-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas sabe usar la lanza.",
@@ -590,7 +590,7 @@
   {
     "id": "C043",
     "nombre": "Martillo de Piedra",
-    "imagen": "martillo_piedra.png",
+    "imagen": "https://i.ibb.co/Vp2jft9Z/605918359-17853664296598919-4169644903002263447-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un martillo rudimentario de piedra.",
@@ -604,7 +604,7 @@
   {
     "id": "C044",
     "nombre": "Cazador de Ratas",
-    "imagen": "cazador_ratas.png",
+    "imagen": "https://i.ibb.co/35dPW9Rr/604926426-17853664305598919-368749093264793617-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cazador urbano que limpia las calles.",
@@ -618,7 +618,7 @@
   {
     "id": "C045",
     "nombre": "Escudo de Madera",
-    "imagen": "escudo_madera.png",
+    "imagen": "https://i.ibb.co/XxbqW34h/604880068-17853664287598919-1049599451184575241-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un escudo básico hecho de madera.",
@@ -632,7 +632,7 @@
   {
     "id": "C046",
     "nombre": "Aprendiz de Cazador",
-    "imagen": "aprendiz_cazador.png",
+    "imagen": "https://i.ibb.co/qYpYbhbr/604132202-17974357325969396-6592473024742832634-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas sabe rastrear animales.",
@@ -646,7 +646,7 @@
   {
     "id": "C047",
     "nombre": "Espada de Entrenamiento Rota",
-    "imagen": "espada_entrenamiento_rota.png",
+    "imagen": "https://i.ibb.co/tMxgdxkB/603921297-17853395070598919-5876712242023138805-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada de madera partida por el uso.",
@@ -660,7 +660,7 @@
   {
     "id": "C048",
     "nombre": "Capa de Viaje",
-    "imagen": "capa_viaje.png",
+    "imagen": "https://i.ibb.co/nNzbnncL/601667964-17902416906337337-5301369864059133634-n.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Una capa simple para protegerse del clima.",
@@ -674,7 +674,7 @@
   {
     "id": "C049",
     "nombre": "Campesino Errante",
-    "imagen": "campesino_errante.png",
+    "imagen": "https://i.ibb.co/qFph6nVx/601493376-17902416936337337-780493688202401789-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un trabajador del campo que viaja en busca de oportunidades.",
@@ -688,7 +688,7 @@
   {
     "id": "C050",
     "nombre": "Hacha Oxidada",
-    "imagen": "hacha_oxidada.png",
+    "imagen": "https://i.ibb.co/nMPccfJ4/601211222-17902416891337337-3072592599666338334-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un hacha vieja y oxidada, aún útil en combate.",
@@ -702,7 +702,7 @@
   {
     "id": "C051",
     "nombre": "Aprendiz de Carpintero",
-    "imagen": "aprendiz_carpintero.png",
+    "imagen": "https://i.ibb.co/bj3qKjPQ/590435002-17902416993337337-8203903633736128174-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas sabe usar herramientas.",
@@ -716,7 +716,7 @@
   {
     "id": "C052",
     "nombre": "Casco de Hierro Liviano",
-    "imagen": "casco_hierro_liviano.png",
+    "imagen": "https://i.ibb.co/kgbs5xcK/589939012-17972321504969396-6713351339871172746-n-copia.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un casco básico de hierro, algo incómodo.",
@@ -730,7 +730,7 @@
   {
     "id": "C053",
     "nombre": "Aprendiz de Monje",
-    "imagen": "aprendiz_monje.png",
+    "imagen": "https://i.ibb.co/vrqhw2p/588385898-17988520271860731-8306316372583841873-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que busca la paz interior.",
@@ -744,7 +744,7 @@
   {
     "id": "C054",
     "nombre": "Espada de Hierro Liviana",
-    "imagen": "espada_hierro_liviana.png",
+    "imagen": "https://i.ibb.co/3gJD2Bx/587840773-17972321573969396-6837783031027425120-n-copia.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada simple de hierro.",
@@ -758,7 +758,7 @@
   {
     "id": "C055",
     "nombre": "Mercenario Novato",
-    "imagen": "mercenario_novato.png",
+    "imagen": "https://i.ibb.co/mFcGytWh/587782172-17946340359093229-4863813010346652438-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un mercenario sin experiencia en batallas reales.",
@@ -772,7 +772,7 @@
   {
     "id": "C056",
     "nombre": "Collar de Hierro",
-    "imagen": "collar_hierro.png",
+    "imagen": "https://i.ibb.co/24q2H5j/584402523-17871255183466713-6953812948652619790-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un collar pesado de hierro sin poderes.",
@@ -786,7 +786,7 @@
   {
     "id": "C057",
     "nombre": "Aprendiz de Guerrero Errante",
-    "imagen": "aprendiz_guerrero_errante.png",
+    "imagen": "https://i.ibb.co/4wNs0Snd/584247905-17871363144466713-302941634468146161-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que viaja buscando aventuras.",
@@ -800,7 +800,7 @@
   {
     "id": "C058",
     "nombre": "Daga de Bronce",
-    "imagen": "daga_bronce.png",
+    "imagen": "https://i.ibb.co/wZkp4WbW/583143867-17906006292273733-2443748415330190142-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una daga simple de bronce.",
@@ -814,7 +814,7 @@
   {
     "id": "C059",
     "nombre": "Cazador de Conejos",
-    "imagen": "cazador_conejos.png",
+    "imagen": "https://i.ibb.co/qFWK5cWB/582111942-17863782228516260-3970977524301185903-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cazador que se especializa en presas pequeñas.",
@@ -828,7 +828,7 @@
   {
     "id": "C060",
     "nombre": "Escudo de Bronce",
-    "imagen": "escudo_bronce.png",
+    "imagen": "https://i.ibb.co/S4JB59SF/581845923-17898160029337337-7465170762735649060-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un escudo básico de bronce.",
@@ -842,7 +842,7 @@
   {
     "id": "C061",
     "nombre": "Aprendiz de Herrero",
-    "imagen": "aprendiz_herrero.png",
+    "imagen": "https://i.ibb.co/ns54fKBn/581490811-17970120218969396-7393239571982706895-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas sabe forjar metales.",
@@ -856,7 +856,7 @@
   {
     "id": "C062",
     "nombre": "Espada de Madera",
-    "imagen": "espada_madera.png",
+    "imagen": "https://i.ibb.co/BVqnGqrQ/581049806-17970120236969396-9056674933805648957-n.jpg",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada rudimentaria hecha de madera.",
@@ -870,7 +870,7 @@
   {
     "id": "C063",
     "nombre": "Sombrero Viejo",
-    "imagen": "sombrero_viejo.png",
+    "imagen": "https://i.ibb.co/r2vpjMX5/576084923-17898026874337337-4275600862988178893-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un sombrero desgastado que apenas protege.",
@@ -884,7 +884,7 @@
   {
     "id": "C064",
     "nombre": "Aprendiz de Explorador",
-    "imagen": "aprendiz_explorador.png",
+    "imagen": "https://i.ibb.co/chRx291F/576004902-17870344203460991-7458939463266793516-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas conoce los caminos.",
@@ -898,7 +898,7 @@
   {
     "id": "C065",
     "nombre": "Hacha de Bronce",
-    "imagen": "hacha_bronce.png",
+    "imagen": "https://i.ibb.co/fVHHY8rb/575615711-17897805702337337-269600012472576360-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un hacha básica de bronce.",
@@ -912,7 +912,7 @@
   {
     "id": "C066",
     "nombre": "Pastor Errante",
-    "imagen": "pastor_errante.png",
+    "imagen": "https://i.ibb.co/8gPpfDJC/575604803-17852020272580298-1801629306215456625-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cuidador de ovejas que viaja por los campos.",
@@ -926,7 +926,7 @@
   {
     "id": "C067",
     "nombre": "Guantes de Tela",
-    "imagen": "guantes_tela.png",
+    "imagen": "https://i.ibb.co/j9qZYG54/574532891-17870344173460991-5254895012868908-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Guantes simples hechos de tela.",
@@ -940,7 +940,7 @@
   {
     "id": "C068",
     "nombre": "Aprendiz de Mercenario",
-    "imagen": "aprendiz_mercenario.png",
+    "imagen": "https://i.ibb.co/1YKtL2wC/574192160-17898026904337337-4546562418344954740-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que busca ganar dinero en batallas.",
@@ -954,7 +954,7 @@
   {
     "id": "C069",
     "nombre": "Daga de Piedra",
-    "imagen": "daga_piedra.png",
+    "imagen": "https://i.ibb.co/MxLRk66x/574166697-17898026850337337-753174573865621220-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una daga rudimentaria hecha de piedra.",
@@ -968,7 +968,7 @@
   {
     "id": "C070",
     "nombre": "Cocinero Errante",
-    "imagen": "cocinero_errante.png",
+    "imagen": "https://i.ibb.co/Qhv5tWj/573995144-17897423133337337-2360900525444624903-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cocinero que viaja ofreciendo sus platos.",
@@ -982,7 +982,7 @@
   {
     "id": "C071",
     "nombre": "Casco de Bronce",
-    "imagen": "casco_bronce.png",
+    "imagen": "https://i.ibb.co/3YRVv9fw/573892710-17897805711337337-6850446686352519517-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un casco básico de bronce.",
@@ -996,7 +996,7 @@
   {
     "id": "C072",
     "nombre": "Aprendiz de Espadachín",
-    "imagen": "aprendiz_espadachin.png",
+    "imagen": "https://i.ibb.co/SXCdjTCT/573769204-17870344155460991-1898290815985510065-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que apenas sabe blandir la espada.",
@@ -1010,7 +1010,7 @@
   {
     "id": "C073",
     "nombre": "Martillo de Bronce",
-    "imagen": "martillo_bronce.png",
+    "imagen": "https://i.ibb.co/DH3fSL7P/573619229-17897576469337337-2486055149473982938-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un martillo básico de bronce.",
@@ -1024,7 +1024,7 @@
   {
     "id": "C074",
     "nombre": "Cazador Errante",
-    "imagen": "cazador_errante.png",
+    "imagen": "https://i.ibb.co/YB3zhYFM/573513545-17897423151337337-5273850391994891631-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cazador que recorre bosques en busca de presas.",
@@ -1038,7 +1038,7 @@
   {
     "id": "C075",
     "nombre": "Escudo de Hierro Liviano",
-    "imagen": "escudo_hierro_liviano.png",
+    "imagen": "https://i.ibb.co/5X3w4Fpg/573480469-17897576490337337-3318063168879359564-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un escudo básico de hierro, algo pesado.",
@@ -1052,7 +1052,7 @@
   {
     "id": "C076",
     "nombre": "Aprendiz de Alquimista",
-    "imagen": "aprendiz_alquimista.png",
+    "imagen": "https://i.ibb.co/4vmbXbS/573431285-17986312385860731-303284085458706356-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que experimenta con pociones simples.",
@@ -1066,7 +1066,7 @@
   {
     "id": "C077",
     "nombre": "Espada de Piedra",
-    "imagen": "espada_piedra.png",
+    "imagen": "https://i.ibb.co/TqtN7n4w/573329195-17985886526860731-1016374154795231878-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una espada rudimentaria hecha de piedra.",
@@ -1080,7 +1080,7 @@
   {
     "id": "C078",
     "nombre": "Cinturón de Tela",
-    "imagen": "cinturon_tela.png",
+    "imagen": "https://i.ibb.co/TMP92jqk/573312437-17985886538860731-937290562251553979-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un cinturón simple de tela.",
@@ -1094,7 +1094,7 @@
   {
     "id": "C079",
     "nombre": "Aprendiz de Cazador de Bestias",
-    "imagen": "aprendiz_cazador_bestias.png",
+    "imagen": "https://i.ibb.co/nsDZhBJN/573117533-17897805684337337-2047899121405838600-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que sueña con cazar criaturas grandes.",
@@ -1108,7 +1108,7 @@
   {
     "id": "C080",
     "nombre": "Hacha de Hierro Liviana",
-    "imagen": "hacha_hierro_liviana.png",
+    "imagen": "https://i.ibb.co/C359p1xS/573043107-17870344182460991-4101632331169390888-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un hacha básica de hierro.",
@@ -1122,7 +1122,7 @@
   {
     "id": "C081",
     "nombre": "Mercader Errante",
-    "imagen": "mercader_errante.png",
+    "imagen": "https://i.ibb.co/FbnjHNP2/572900161-17985376685860731-797967504568301741-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un comerciante que viaja entre pueblos.",
@@ -1136,7 +1136,7 @@
   {
     "id": "C082",
     "nombre": "Guantes de Bronce",
-    "imagen": "guantes_bronce.png",
+    "imagen": "https://i.ibb.co/nTt3bkK/572808042-17897423163337337-5436646415596047221-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Guantes simples de bronce.",
@@ -1150,7 +1150,7 @@
   {
     "id": "C083",
     "nombre": "Aprendiz de Guerrero de Aldea",
-    "imagen": "aprendiz_guerrero_aldea.png",
+    "imagen": "https://i.ibb.co/r28Mschf/572749219-17985886547860731-3587440137713862644-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que defiende su aldea con valentía.",
@@ -1164,7 +1164,7 @@
   {
     "id": "C084",
     "nombre": "Daga de Madera",
-    "imagen": "daga_madera.png",
+    "imagen": "https://i.ibb.co/zM9hxD7/572115710-17985504746860731-1495951789749917979-n-copia.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Una daga rudimentaria hecha de madera.",
@@ -1178,7 +1178,7 @@
   {
     "id": "C085",
     "nombre": "Carpintero Errante",
-    "imagen": "carpintero_errante.png",
+    "imagen": "https://i.ibb.co/tMkdLHZv/571749694-17985376712860731-4476355620322521776-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un trabajador de la madera que viaja ofreciendo sus servicios.",
@@ -1192,7 +1192,7 @@
   {
     "id": "C086",
     "nombre": "Casco de Piedra",
-    "imagen": "casco_piedra.png",
+    "imagen": "https://i.ibb.co/RGvpk8MN/567303821-17927769135128888-1764890051608332095-n.webp",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un casco rudimentario hecho de piedra.",
@@ -1206,7 +1206,7 @@
   {
     "id": "C087",
     "nombre": "Aprendiz de Espía",
-    "imagen": "aprendiz_espia.png",
+    "imagen": "https://i.ibb.co/Xr8Fdg8t/561176536-17935687134093229-8210131341380283842-n.jpg",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un joven que intenta aprender el arte del sigilo.",
@@ -1220,7 +1220,7 @@
   {
     "id": "C088",
     "nombre": "Martillo de Hierro",
-    "imagen": "martillo_hierro.png",
+    "imagen": "https://i.ibb.co/GQn3bZdS/554409498-17893150014337337-3046250574794054387-n.webp",
     "rareza": "common",
     "tipo": "Arma",
     "descripcion": "Un martillo básico de hierro.",
@@ -1234,7 +1234,7 @@
   {
     "id": "C089",
     "nombre": "Cazador de Aves",
-    "imagen": "cazador_aves.png",
+    "imagen": "https://i.ibb.co/gLd3TmzX/554091526-17893150023337337-9213667643716661705-n.webp",
     "rareza": "common",
     "tipo": "Personaje",
     "descripcion": "Un cazador que se especializa en aves pequeñas.",
@@ -1248,7 +1248,917 @@
   {
     "id": "C090",
     "nombre": "Escudo de Tela",
-    "imagen": "escudo_tela.png",
+    "imagen": "https://i.ibb.co/VWnfbLmw/553876840-17893150032337337-2528004945210458608-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C091",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/99DssjFt/553677212-17982103415860731-876389259363895059-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C092",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/WNFjjwtg/551976487-17879186547399959-3744472428553826323-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C093",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/ynnG9FmR/550740749-17981101043860731-9041124772116591576-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C094",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/N6zxSXXt/550659804-17981101025860731-365042493435603824-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C095",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/7xXpCxXQ/550322272-17879186556399959-1370863697753720437-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C096",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/sdRZG1dD/550215610-17879186583399959-5887637146986153152-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C097",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/1Yz756dC/549373707-17980925930860731-4299520983719591044-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C098",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/KTM576R/549285854-17879186565399959-3577752685545761624-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C099",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/bMrKPgCp/549245189-17980925927860731-5440131436586405205-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C100",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/pBftftq1/548921149-17980925912860731-1898440503876524417-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C101",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/VWh3nH78/548849413-17980703717860731-1255751949110280134-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C102",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/Z6qcNtps/548700685-17980600919860731-4404093372414626893-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C103",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/Jj8Y7sfW/548038950-17980703708860731-6380962593146629315-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C104",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/RmCnrJH/548016216-17980703726860731-1042136980510304123-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C105",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/gL0gtq7z/547975756-17980703699860731-8889703234760823621-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C106",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/p8WhYFf/544769542-17980099724860731-2168558214630117080-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C107",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/xqN3MyC9/542004557-17979410516860731-3929316201385630474-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C108",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/DTc4BRK/541743795-17979410525860731-1739900072343811781-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C109",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/Ng7p1tv6/541678940-17979410513860731-4085465270237761292-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C110",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/S4pSYxGz/541594084-17979410534860731-2088128980522849099-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C111",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/HfwQMY9y/541570786-17978990900860731-6968308320855170395-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C112",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/0pdHS5yx/540992985-17978990912860731-2544820507499418860-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C113",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/5gjWQr7d/539251232-17978483168860731-6140844926599946535-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C114",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/3533XQMT/539089002-17978488058860731-5308022917567228204-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C115",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/spYptS4t/538211997-17978488067860731-2554542998625931668-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C116",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/07Lbd5S/538197962-17978488076860731-2553394394002896773-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C117",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/fYGV5PCd/537675256-17978296718860731-3642135062477134773-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C118",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/chx4VGLv/536515780-17978296727860731-6737035950822028174-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C119",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/5Wfvthvp/533168168-17959692956969396-2343442452122458392-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C120",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/pjrkD1n7/530736479-17929204731093229-6691012207004085633-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C121",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/27m5Rbkh/530479972-17929204758093229-4895822041702775945-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C122",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/BHgfjdjY/529980547-17929204749093229-2282565863196774809-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C123",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/LzGH1jhq/528781539-17976735485860731-4759043048795030092-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C124",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/S7K1TKS9/528403312-17976735476860731-752232694785236315-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C125",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/x8M6Fc1X/527610909-17976370403860731-970049836140613666-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C126",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/bgwN0YXM/527448657-17846909793538174-6968375924395263327-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C127",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/yckqfvjG/527351176-17846909784538174-1037472899729944093-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C128",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/FLhVV6W3/527117224-17846489457538174-2090703468625766401-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C129",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/PZzH7dvf/527112657-17846489466538174-628223843055369883-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C130",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/0xjGj65/517867717-17883541179337337-5187655035591980472-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C131",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/tpfmtTZd/517289109-17855907858464842-1533321834694845132-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C132",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/MDcV3kgp/517265651-17883541230337337-3177735162184009604-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C133",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/CpwkFL9p/510399620-17882639523337337-3235213154649514995-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C134",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/YBknpQ8r/505762693-17852565579464842-5328428080920015155-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C135",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/jKTRCvz/504345215-17881653792337337-6707120624009743528-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C136",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/tw1cpgGm/504338367-17881653732337337-2038629989330040303-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C137",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/NgbNstQM/503196198-17969547488860731-8879107867958666012-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C138",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/Kch9BdFR/500671328-17968639898860731-7680983209255797167-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C139",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/8DqnLfXr/500363699-17968639889860731-7869969823547199106-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C140",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/jPCVFvzt/498942594-17877228021337337-6689444449618852651-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C141",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/99jzm6Dm/498321395-17877228048337337-1715060519899584337-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C142",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/nN1yWnc6/491449721-17965407299860731-4603034841183414894-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C143",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/4wJ1d9Qr/491440436-17965192091860731-7237060600623319739-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C144",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/F4Wxx5Px/486842370-17962957805860731-5819178159908123845-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C145",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/1tVsDBHD/485054982-17961669032860731-412078330686889657-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C146",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/LXFYFh12/485034090-17961669014860731-9204975164218033733-n.webp",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C147",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/yFNwR50m/482770057-17941961873969396-2866929071795378228-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C148",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/Xxww1Thj/476094559-17937605315969396-8714243349868343794-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C149",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/LdJkx4tc/475989684-17937605324969396-2575051245633437174-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C150",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/rK1m4wPL/475661311-17937605306969396-3911295415308677113-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C151",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/PspRBY00/475270480-17937605333969396-2265655479474586220-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C152",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/8nVZhYJq/474878440-17941961882969396-1527841603925339448-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C153",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/HDWXRLVL/472634476-17937732875969396-7004252981367121388-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C154",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/JwW02L0m/472621177-17938575563969396-2052989862777871535-n.jpg",
+    "rareza": "common",
+    "tipo": "Accesorio",
+    "descripcion": "Un escudo rudimentario hecho de tela gruesa.",
+    "probabilidad": 0.70,
+    "stats": {
+      "ataque": 0,
+      "defensa": 6,
+      "velocidad": -1
+    }
+  },
+  {
+    "id": "C155",
+    "nombre": "Escudo de Tela",
+    "imagen": "https://i.ibb.co/351D5XsZ/472627305-17938575509969396-651584783007786808-n-copia.jpg",
     "rareza": "common",
     "tipo": "Accesorio",
     "descripcion": "Un escudo rudimentario hecho de tela gruesa.",

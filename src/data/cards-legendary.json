@@ -2,7 +2,7 @@
     {
         "id": "L001",
         "nombre": "Caballero Dorado",
-        "imagen": "caballero_dorado.png",
+        "imagen": "https://i.ibb.co/qFRx6KnW/549768198-17981101016860731-1192519412896117515-n.webp",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un caballero envuelto en armadura dorada, símbolo de gloria eterna.",
@@ -16,7 +16,7 @@
     {
         "id": "L002",
         "nombre": "Espada Dorada",
-        "imagen": "espada_dorada.png",
+        "imagen": "https://i.ibb.co/chv03mmH/601228038-17943352848093229-4014741861802034014-n.jpg",
         "rareza": "legendary",
         "tipo": "Arma",
         "descripcion": "Una espada forjada con oro celestial, capaz de cortar cualquier cosa.",
@@ -30,7 +30,7 @@
     {
         "id": "L003",
         "nombre": "Armadura Dorada",
-        "imagen": "armadura_dorada.png",
+        "imagen": "https://i.ibb.co/3mbsMD3D/472601759-17938410020969396-8694984557350894017-n.jpg",
         "rareza": "legendary",
         "tipo": "Accesorio",
         "descripcion": "Una armadura que brilla con luz divina, casi indestructible.",
@@ -44,7 +44,7 @@
     {
         "id": "L004",
         "nombre": "Hechicero Dorado",
-        "imagen": "hechicero_dorado.png",
+        "imagen": "https://i.ibb.co/rR5LvsjM/559364649-17935687158093229-1140069405488270313-n.jpg",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un mago que domina los secretos de la magia eterna.",
@@ -58,7 +58,7 @@
     {
         "id": "L005",
         "nombre": "Arco Dorado",
-        "imagen": "arco_dorado.png",
+        "imagen": "https://i.ibb.co/fVTQzhZg/613583408-17946228780093229-6598339177324902223-n.jpg",
         "rareza": "legendary",
         "tipo": "Arma",
         "descripcion": "Un arco que dispara flechas imbuidas con energía divina.",
@@ -72,7 +72,7 @@
     {
         "id": "L006",
         "nombre": "Lancero Dorado",
-        "imagen": "lancero_dorado.png",
+        "imagen": "https://i.ibb.co/DsT3DvD/504484725-17953332731969396-151526827019151860-n.jpg",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un lancero que lucha con la fuerza de los dioses.",
@@ -86,7 +86,7 @@
     {
         "id": "L007",
         "nombre": "Casco Dorado",
-        "imagen": "casco_dorado.png",
+        "imagen": "https://i.ibb.co/kgwf3gpJ/551805831-17933958447093229-9197532089110620096-n.jpg",
         "rareza": "legendary",
         "tipo": "Accesorio",
         "descripcion": "Un casco que protege contra cualquier ataque.",
@@ -100,7 +100,7 @@
     {
         "id": "L008",
         "nombre": "Guerrero Dorado",
-        "imagen": "guerrero_dorado.png",
+        "imagen": "https://i.ibb.co/60kxLBV2/482720896-17960341727860731-1518246787723888667-n.webp",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un guerrero que lucha con la fuerza del sol.",
@@ -114,7 +114,7 @@
     {
         "id": "L009",
         "nombre": "Ballesta Dorada",
-        "imagen": "ballesta_dorada.png",
+        "imagen": "https://i.ibb.co/VcyyJ9Lp/590410865-17942882808093229-6812144783308592051-n.jpg",
         "rareza": "legendary",
         "tipo": "Arma",
         "descripcion": "Una ballesta que dispara proyectiles imbuidos con luz divina.",
@@ -128,7 +128,7 @@
     {
         "id": "L010",
         "nombre": "Explorador Dorado",
-        "imagen": "explorador_dorado.png",
+        "imagen": "https://i.ibb.co/dwSJWDrW/550909562-17933958474093229-1910784888660298281-n.jpg",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un explorador que se mueve con la velocidad de la luz.",
@@ -142,7 +142,7 @@
     {
         "id": "L011",
         "nombre": "Guantes Dorados",
-        "imagen": "guantes_dorados.png",
+        "imagen": "https://i.ibb.co/39Zwpyw0/613755080-17946228753093229-201804853583805521-n.jpg",
         "rareza": "legendary",
         "tipo": "Accesorio",
         "descripcion": "Guantes que canalizan energía divina.",
@@ -156,7 +156,7 @@
     {
         "id": "L012",
         "nombre": "Monje Dorado",
-        "imagen": "monje_dorado.png",
+        "imagen": "https://i.ibb.co/20sNY24k/530816178-17929204722093229-6641684024887126425-n.jpg",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un monje que medita bajo la luz eterna.",
@@ -170,7 +170,7 @@
     {
         "id": "L013",
         "nombre": "Martillo Dorado",
-        "imagen": "martillo_dorado.png",
+        "imagen": "https://i.ibb.co/YTDwm6GT/605877627-17944590876093229-5164534998593720833-n.jpg",
         "rareza": "legendary",
         "tipo": "Arma",
         "descripcion": "Un martillo que descarga energía divina al golpear.",
@@ -184,7 +184,7 @@
     {
         "id": "L014",
         "nombre": "Cazador Dorado",
-        "imagen": "cazador_dorado.png",
+        "imagen": "https://i.ibb.co/FLg3kRfk/589082671-17942035467093229-2670873891082301799-n.jpg",
         "rareza": "legendary",
         "tipo": "Personaje",
         "descripcion": "Un cazador que aprovecha la energía del sol.",
@@ -198,7 +198,21 @@
     {
         "id": "L015",
         "nombre": "Escudo Dorado",
-        "imagen": "escudo_dorado.png",
+        "imagen": "https://i.ibb.co/23z3pyw8/537699185-17978483150860731-6481322087445865051-n.webp",
+        "rareza": "legendary",
+        "tipo": "Accesorio",
+        "descripcion": "Un escudo que absorbe la energía divina.",
+        "probabilidad": 0.03,
+        "stats": {
+            "ataque": 0,
+            "defensa": 70,
+            "velocidad": -6
+        }
+    },
+    {
+        "id": "L016",
+        "nombre": "Escudo Dorado",
+        "imagen": "https://i.ibb.co/hFpkWJCN/482918510-17941961945969396-4626066047936961634-n.jpg",
         "rareza": "legendary",
         "tipo": "Accesorio",
         "descripcion": "Un escudo que absorbe la energía divina.",
