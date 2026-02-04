@@ -31,7 +31,8 @@ async function register(email, password) {
         );
         const user = result.rows[0];
 
-        const token = jwt.sign({ id: user.id }, SECRET, { expiresIn: '1h' });
+        // const token = jwt.sign({ id: user.id }, SECRET, { expiresIn: '1h' });
+        const token = jwt.sign({ id: user.id }, SECRET);
 
         // Traemos cartas (vacío al inicio)
         const { cards, cardsCount } = await getUserCards(user.id);
