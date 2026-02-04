@@ -23,23 +23,6 @@ app.use('/api/admin', adminRoutes);
 
 if (isProduction) {
 
-    // implementar cambios a la bd
-
-    app.get("/api/update", async (req, res) => {
-        try {
-            // Crear columna role si no existe 
-            await pool.query(`ALTER TABLE users ADD COLUMN IF NOT EXISTS role VARCHAR(20) DEFAULT 'user';`);
-
-            // Asignar admin a tu usuario 
-            await pool.query(`UPDATE users SET role = 'admin' WHERE email = 'cris@gmail.com';`);
-
-            res.json({ message: "Actualización realizada: columna role creada y usuario cris@gmail.com es admin." });
-        } catch (err) {
-            console.error("Error en /api/update:", err);
-            res.status(500).json({ error: err.message });
-        }
-    });
-
     // servir frontend 
     const publicPath = path.join(__dirname, 'public', 'dist');
     app.use(express.static(path.join(publicPath)));
