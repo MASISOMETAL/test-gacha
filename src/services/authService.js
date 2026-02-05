@@ -63,7 +63,7 @@ async function login(email, password) {
         const match = await bcrypt.compare(password, user.password);
         if (!match) throw new Error("Contraseña incorrecta");
 
-        const token = jwt.sign({ id: user.id }, SECRET, { expiresIn: '1h' });
+        const token = jwt.sign({ id: user.id }, SECRET);
 
         // Traemos cartas del usuario
         const { cards, cardsCount } = await getUserCards(user.id);
